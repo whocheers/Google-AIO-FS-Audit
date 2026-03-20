@@ -1,0 +1,1509 @@
+new_index,question_as_query,topic,question_type,Query_type
+1,are walkers bad for babies?,babycare,Binary Question,Sampled_Original
+2,can babies drink almond milk?,babycare,Binary Question,Sampled_Original
+3,can babies eat cheese?,babycare,Binary Question,Sampled_Original
+4,can babies eat eggs?,babycare,Binary Question,Sampled_Original
+5,can babies eat honey?,babycare,Binary Question,Sampled_Original
+6,can babies eat salmon?,babycare,Binary Question,Sampled_Original
+7,can babies eat strawberries?,babycare,Binary Question,Sampled_Original
+8,can babies eat tuna?,babycare,Binary Question,Sampled_Original
+9,can babies eat yogurt?,babycare,Binary Question,Sampled_Original
+10,can babies have cinnamon?,babycare,Binary Question,Sampled_Original
+11,can babies wear sunscreen?,babycare,Binary Question,Sampled_Original
+12,can baby sleep with pacifier?,babycare,Binary Question,Sampled_Original
+13,can i give my baby water?,babycare,Binary Question,Sampled_Original
+14,can you use vicks on babies?,babycare,Binary Question,Sampled_Original
+15,do babies get shots at 9 months?,babycare,Binary Question,Sampled_Original
+16,do babies snore?,babycare,Binary Question,Sampled_Original
+17,do babies sweat?,babycare,Binary Question,Sampled_Original
+18,does baby move during contractions?,babycare,Binary Question,Sampled_Original
+19,is aquaphor safe for babies face?,babycare,Binary Question,Sampled_Original
+20,is aquaphor safe for babies lips?,babycare,Binary Question,Sampled_Original
+21,is orajel safe for babies?,babycare,Binary Question,Sampled_Original
+22,is regular aquaphor safe for babies?,babycare,Binary Question,Sampled_Original
+23,should babies wear shoes?,babycare,Binary Question,Sampled_Original
+24,are babies born blind?,babycare,Binary Question,Sampled_Original
+25,are babies born with eyebrows?,babycare,Binary Question,Sampled_Original
+26,are babies born with kneecaps?,babycare,Binary Question,Sampled_Original
+27,are babies born with teeth?,babycare,Binary Question,Sampled_Original
+28,are baby walkers safe?,babycare,Binary Question,Sampled_Original
+29,are black babies born white?,babycare,Binary Question,Sampled_Original
+30,are molars baby teeth?,babycare,Binary Question,Sampled_Original
+31,are shingles contagious to babies?,babycare,Binary Question,Sampled_Original
+32,are ultrasounds safe for baby?,babycare,Binary Question,Sampled_Original
+33,are vaccines made from aborted babies?,babycare,Binary Question,Sampled_Original
+34,are walkers good for babies?,babycare,Binary Question,Sampled_Original
+35,can 2 blue eyed parents have brown eyed baby?,babycare,Binary Question,Sampled_Original
+36,can 2 brown eyed people have blue eyed baby?,babycare,Binary Question,Sampled_Original
+37,can a baby be allergic to breast milk?,babycare,Binary Question,Sampled_Original
+38,can a baby survive at 20 weeks?,babycare,Binary Question,Sampled_Original
+39,can a baby survive at 23 weeks?,babycare,Binary Question,Sampled_Original
+40,can a baby survive at 24 weeks?,babycare,Binary Question,Sampled_Original
+41,can a baby survive at 27 weeks?,babycare,Binary Question,Sampled_Original
+42,can a baby survive at 30 weeks?,babycare,Binary Question,Sampled_Original
+43,can a man have a baby?,babycare,Binary Question,Sampled_Original
+44,can a man carry a baby?,babycare,Binary Question,Sampled_Original
+45,can babies get mono?,babycare,Binary Question,Sampled_Original
+46,can babies get shingles?,babycare,Binary Question,Sampled_Original
+47,can babies get sinus infections?,babycare,Binary Question,Sampled_Original
+48,can babies get strep throat?,babycare,Binary Question,Sampled_Original
+49,can babies have yogurt?,babycare,Binary Question,Sampled_Original
+50,can babies hear in the womb?,babycare,Binary Question,Sampled_Original
+51,can babies see?,babycare,Binary Question,Sampled_Original
+52,can babies see at birth?,babycare,Binary Question,Sampled_Original
+53,can babies see color?,babycare,Binary Question,Sampled_Original
+54,can blue eyed parents have brown eyed baby?,babycare,Binary Question,Sampled_Original
+55,can i use aquaphor on baby face?,babycare,Binary Question,Sampled_Original
+56,can men have babies?,babycare,Binary Question,Sampled_Original
+57,can precum make a baby?,babycare,Binary Question,Sampled_Original
+58,can two blue eyed people have brown eyed baby?,babycare,Binary Question,Sampled_Original
+59,can you feel baby move at 13 weeks?,babycare,Binary Question,Sampled_Original
+60,can you hear baby heartbeat with stethoscope?,babycare,Binary Question,Sampled_Original
+61,do all babies crawl?,babycare,Binary Question,Sampled_Original
+62,do babies feel pain during abortion?,babycare,Binary Question,Sampled_Original
+63,do babies get a fever when teething?,babycare,Binary Question,Sampled_Original
+64,do babies have kneecaps?,babycare,Binary Question,Sampled_Original
+65,do babies have knees?,babycare,Binary Question,Sampled_Original
+66,do babies need a passport?,babycare,Binary Question,Sampled_Original
+67,do babies need dental insurance?,babycare,Binary Question,Sampled_Original
+68,do babies need water?,babycare,Binary Question,Sampled_Original
+69,do babies open their eyes in the womb?,babycare,Binary Question,Sampled_Original
+70,do babies pee in the womb?,babycare,Binary Question,Sampled_Original
+71,do babies poop in the womb?,babycare,Binary Question,Sampled_Original
+72,do baby teeth have roots?,babycare,Binary Question,Sampled_Original
+73,do baby wipes expire?,babycare,Binary Question,Sampled_Original
+74,do breech babies have abnormalities?,babycare,Binary Question,Sampled_Original
+75,do midwives deliver babies?,babycare,Binary Question,Sampled_Original
+76,do second babies come earlier?,babycare,Binary Question,Sampled_Original
+77,do you have to sterilize baby bottles?,babycare,Binary Question,Sampled_Original
+78,does gestational diabetes affect the baby?,babycare,Binary Question,Sampled_Original
+79,does having a baby hurt?,babycare,Binary Question,Sampled_Original
+80,is a fetus a baby?,babycare,Binary Question,Sampled_Original
+81,is an embryo a baby?,babycare,Binary Question,Sampled_Original
+82,is baby oil good for dry skin?,babycare,Binary Question,Sampled_Original
+83,is baby oil good for skin?,babycare,Binary Question,Sampled_Original
+84,is baby oil mineral oil?,babycare,Binary Question,Sampled_Original
+85,is baby oil safe?,babycare,Binary Question,Sampled_Original
+86,is baby powder safe?,babycare,Binary Question,Sampled_Original
+87,is baby powder safe to use?,babycare,Binary Question,Sampled_Original
+88,is cornstarch baby powder safe?,babycare,Binary Question,Sampled_Original
+89,is every baby born with blue eyes?,babycare,Binary Question,Sampled_Original
+90,is johnson and johnson baby powder safe?,babycare,Binary Question,Sampled_Original
+91,is johnson's baby powder safe?,babycare,Binary Question,Sampled_Original
+92,is my baby teething?,babycare,Binary Question,Sampled_Original
+93,should you wake a sleeping baby?,babycare,Binary Question,Sampled_Original
+94,do babies go to heaven?,babycare,Binary Question,Sampled_Original
+95,do babies go to hell?,babycare,Binary Question,Sampled_Original
+96,are all babies born white?,babycare,Binary Question,Sampled_Original
+97,can babies see spirits?,babycare,Binary Question,Sampled_Original
+98,do babies fly free?,babycare,Binary Question,Sampled_Original
+99,is there asbestos in baby powder?,babycare,Binary Question,Sampled_Original
+100,does baby powder cause cancer?,babycare,Binary Question,Sampled_Original
+101,can you get pregnant at 48?,pregnancy,Binary Question,Sampled_Original
+102,can you get pregnant after tubes tied?,pregnancy,Binary Question,Sampled_Original
+103,can pregnant women eat steak?,pregnancy,Binary Question,Sampled_Original
+104,can pre cum get you pregnant?,pregnancy,Binary Question,Sampled_Original
+105,is cream cheese safe during pregnancy?,pregnancy,Binary Question,Sampled_Original
+106,can you take paracetamol when pregnant?,pregnancy,Binary Question,Sampled_Original
+107,is pregnancy brain real?,pregnancy,Binary Question,Sampled_Original
+108,is decaf coffee safe during pregnancy?,pregnancy,Binary Question,Sampled_Original
+109,is spotting normal during pregnancy?,pregnancy,Binary Question,Sampled_Original
+110,can i eat feta when pregnant?,pregnancy,Binary Question,Sampled_Original
+111,is back pain a sign of pregnancy?,pregnancy,Binary Question,Sampled_Original
+112,can you eat pepperoni when pregnant?,pregnancy,Binary Question,Sampled_Original
+113,can you take aleve when pregnant?,pregnancy,Binary Question,Sampled_Original
+114,is zofran safe during pregnancy?,pregnancy,Binary Question,Sampled_Original
+115,can you eat bacon when pregnant?,pregnancy,Binary Question,Sampled_Original
+116,can you be pregnant and not know?,pregnancy,Binary Question,Sampled_Original
+117,can you get pregnant after a vasectomy?,pregnancy,Binary Question,Sampled_Original
+118,can pregnant women eat hot dogs?,pregnancy,Binary Question,Sampled_Original
+119,can pre com get you pregnant nhs?,pregnancy,Binary Question,Sampled_Original
+120,can you take doxycycline while pregnant?,pregnancy,Binary Question,Sampled_Original
+121,can i use a heating pad while pregnant?,pregnancy,Binary Question,Sampled_Original
+122,is shingles contagious to pregnant women?,pregnancy,Binary Question,Sampled_Original
+123,do dollar store pregnancy tests work?,pregnancy,Binary Question,Sampled_Original
+124,are cramps normal during early pregnancy?,pregnancy,Binary Question,Sampled_Original
+125,will an ectopic pregnancy show positive?,pregnancy,Binary Question,Sampled_Original
+126,is melatonin safe during pregnancy?,pregnancy,Binary Question,Sampled_Original
+127,can you smoke weed while pregnant?,pregnancy,Binary Question,Sampled_Original
+128,is it ok to take prenatal when not pregnant?,pregnancy,Binary Question,Sampled_Original
+129,is it safe for pregnant women to fly?,pregnancy,Binary Question,Sampled_Original
+130,will a pregnancy test show ectopic pregnancy?,pregnancy,Binary Question,Sampled_Original
+131,can i get pregnant from precum?,pregnancy,Binary Question,Sampled_Original
+132,can you drink decaf coffee when pregnant?,pregnancy,Binary Question,Sampled_Original
+133,can you eat salmon while pregnant?,pregnancy,Binary Question,Sampled_Original
+134,can you take magnesium while pregnant?,pregnancy,Binary Question,Sampled_Original
+135,is miralax safe during pregnancy?,pregnancy,Binary Question,Sampled_Original
+136,is magnesium safe in pregnancy?,pregnancy,Binary Question,Sampled_Original
+137,can pregnant women eat tuna?,pregnancy,Binary Question,Sampled_Original
+138,can a pregnant woman drink wine?,pregnancy,Binary Question,Sampled_Original
+139,can you take miralax while pregnant?,pregnancy,Binary Question,Sampled_Original
+140,can you eat mozzarella when pregnant?,pregnancy,Binary Question,Sampled_Original
+141,can you take cold medicine when pregnant?,pregnancy,Binary Question,Sampled_Original
+142,can pregnant women eat cold cuts?,pregnancy,Binary Question,Sampled_Original
+143,can you take motrin while pregnant?,pregnancy,Binary Question,Sampled_Original
+144,is it possible to get pregnant after period?,pregnancy,Binary Question,Sampled_Original
+145,can a guy get pregnant?,pregnancy,Binary Question,Sampled_Original
+146,can pregnant women eat catfish?,pregnancy,Binary Question,Sampled_Original
+147,can you eat cooked sushi while pregnant?,pregnancy,Binary Question,Sampled_Original
+148,can you get pregnant on depo shot?,pregnancy,Binary Question,Sampled_Original
+149,can you sleep on your back when pregnant?,pregnancy,Binary Question,Sampled_Original
+150,should you take prenatal if not pregnant?,pregnancy,Binary Question,Sampled_Original
+151,can you drink herbal tea when pregnant?,pregnancy,Binary Question,Sampled_Original
+152,can pregnant women eat pineapple?,pregnancy,Binary Question,Sampled_Original
+153,can pregnant women eat mussels?,pregnancy,Binary Question,Sampled_Original
+154,can a negative pregnancy test be wrong?,pregnancy,Binary Question,Sampled_Original
+155,is shingles dangerous for pregnant women?,pregnancy,Binary Question,Sampled_Original
+156,can you get pregnant after your period ends?,pregnancy,Binary Question,Sampled_Original
+157,can you take elderberry while pregnant?,pregnancy,Binary Question,Sampled_Original
+158,is green tea safe while pregnant?,pregnancy,Binary Question,Sampled_Original
+159,can pregnant women eat prawns?,pregnancy,Binary Question,Sampled_Original
+160,can you get pregnant a week before period?,pregnancy,Binary Question,Sampled_Original
+161,can pregnant women drink soda?,pregnancy,Binary Question,Sampled_Original
+162,can pregnant women eat ice cream?,pregnancy,Binary Question,Sampled_Original
+163,can you take antidepressants while pregnant?,pregnancy,Binary Question,Sampled_Original
+164,can you get pregnant from fingering?,pregnancy,Binary Question,Sampled_Original
+165,can a 50 year old get pregnant?,pregnancy,Binary Question,Sampled_Original
+166,can a pregnant woman take alka seltzer?,pregnancy,Binary Question,Sampled_Original
+167,can you eat clams when pregnant?,pregnancy,Binary Question,Sampled_Original
+168,is pregnancy a qualifying event for insurance?,pregnancy,Binary Question,Sampled_Original
+169,can pregnant women take aleve?,pregnancy,Binary Question,Sampled_Original
+170,can pregnant women eat crawfish?,pregnancy,Binary Question,Sampled_Original
+171,is green tea good for pregnant women?,pregnancy,Binary Question,Sampled_Original
+172,can i dye my hair while pregnant?,pregnancy,Binary Question,Sampled_Original
+173,can you get pregnant 3 days before period?,pregnancy,Binary Question,Sampled_Original
+174,are probiotics safe during pregnancy?,pregnancy,Binary Question,Sampled_Original
+175,can pregnant women eat beef jerky?,pregnancy,Binary Question,Sampled_Original
+176,can i take tums while pregnant?,pregnancy,Binary Question,Sampled_Original
+177,do you get cramps when pregnant?,pregnancy,Binary Question,Sampled_Original
+178,can you get pregnant after a tubal?,pregnancy,Binary Question,Sampled_Original
+179,can you get a massage when pregnant?,pregnancy,Binary Question,Sampled_Original
+180,can pregnant women take tums?,pregnancy,Binary Question,Sampled_Original
+181,is aspirin safe in pregnancy?,pregnancy,Binary Question,Sampled_Original
+182,can pregnant women eat lunch meat?,pregnancy,Binary Question,Sampled_Original
+183,can you take probiotics while pregnant?,pregnancy,Binary Question,Sampled_Original
+184,is peppermint tea safe during pregnancy?,pregnancy,Binary Question,Sampled_Original
+185,does birth control prevent pregnancy?,pregnancy,Binary Question,Sampled_Original
+186,can i eat lobster while pregnant?,pregnancy,Binary Question,Sampled_Original
+187,can pregnant women paint?,pregnancy,Binary Question,Sampled_Original
+188,is heartburn a sign of pregnancy?,pregnancy,Binary Question,Sampled_Original
+189,can you bleed and still be pregnant?,pregnancy,Binary Question,Sampled_Original
+190,can you get pregnant after ovulation?,pregnancy,Binary Question,Sampled_Original
+191,can you take benadryl when pregnant?,pregnancy,Binary Question,Sampled_Original
+192,can pregnant women take tamiflu?,pregnancy,Binary Question,Sampled_Original
+193,is it safe to travel while pregnant?,pregnancy,Binary Question,Sampled_Original
+194,can pregnant women donate blood?,pregnancy,Binary Question,Sampled_Original
+195,can you go to the dentist while pregnant?,pregnancy,Binary Question,Sampled_Original
+196,can a paternity test be done while pregnant?,pregnancy,Binary Question,Sampled_Original
+197,can pregnant women eat calamari?,pregnancy,Binary Question,Sampled_Original
+198,are hiccups a sign of pregnancy?,pregnancy,Binary Question,Sampled_Original
+199,does birth control stop pregnancy?,pregnancy,Binary Question,Sampled_Original
+200,do pregnancy tests expire?,pregnancy,Binary Question,Sampled_Original
+201,how big is a baby at 4 weeks?,babycare,How + adj/adv Question,Sampled_Original
+202,how big is a baby at 10 weeks?,babycare,How + adj/adv Question,Sampled_Original
+203,how early can a baby survive?,babycare,How + adj/adv Question,Sampled_Original
+204,how often do babies eat?,babycare,How + adj/adv Question,Sampled_Original
+205,how long after epidural is baby born?,babycare,How + adj/adv Question,Sampled_Original
+206,how long should baby sleep in parents room?,babycare,How + adj/adv Question,Sampled_Original
+207,how long are babies in size 1 diapers?,babycare,How + adj/adv Question,Sampled_Original
+208,how many babies are born with down syndrome?,babycare,How + adj/adv Question,Sampled_Original
+209,how old is my baby calculator?,babycare,How + adj/adv Question,Sampled_Original
+210,how long do baby showers last?,babycare,How + adj/adv Question,Sampled_Original
+211,how many babies are aborted each day?,babycare,How + adj/adv Question,Sampled_Original
+212,how long does baby formula last?,babycare,How + adj/adv Question,Sampled_Original
+213,how big is baby at 15 weeks?,babycare,How + adj/adv Question,Sampled_Original
+214,how many baby teeth fall out?,babycare,How + adj/adv Question,Sampled_Original
+215,how many babies are aborted daily?,babycare,How + adj/adv Question,Sampled_Original
+216,how often do breastfed babies poop?,babycare,How + adj/adv Question,Sampled_Original
+217,how long after being induced is baby born?,babycare,How + adj/adv Question,Sampled_Original
+218,how many weeks old is my baby?,babycare,How + adj/adv Question,Sampled_Original
+219,how many weeks is my baby?,babycare,How + adj/adv Question,Sampled_Original
+220,how do babies get ear infections?,babycare,How + adj/adv Question,Sampled_Original
+221,how much should a 4 month old baby weigh?,babycare,How + adj/adv Question,Sampled_Original
+222,how tall will my baby be?,babycare,How + adj/adv Question,Sampled_Original
+223,how many kids can you babysit without license?,babycare,How + adj/adv Question,Sampled_Original
+224,how old do babies start talking?,babycare,How + adj/adv Question,Sampled_Original
+225,how much milk does a baby need?,babycare,How + adj/adv Question,Sampled_Original
+226,how many babies are born on their due date?,babycare,How + adj/adv Question,Sampled_Original
+227,how much should a 6 month baby weigh?,babycare,How + adj/adv Question,Sampled_Original
+228,how many baby teeth do children lose?,babycare,How + adj/adv Question,Sampled_Original
+229,how much baby food 6 month?,babycare,How + adj/adv Question,Sampled_Original
+230,how much weight does a baby gain per week?,babycare,How + adj/adv Question,Sampled_Original
+231,how much weight does a baby gain in the last?,babycare,How + adj/adv Question,Sampled_Original
+232,how old does a baby need to be to fly?,babycare,How + adj/adv Question,Sampled_Original
+233,how many diapers does a baby use?,babycare,How + adj/adv Question,Sampled_Original
+234,how many bones do babies have at birth?,babycare,How + adj/adv Question,Sampled_Original
+235,how long is labor for first baby?,babycare,How + adj/adv Question,Sampled_Original
+236,how many weeks do you carry a baby?,babycare,How + adj/adv Question,Sampled_Original
+237,how do you know how to look after a baby?,babycare,How + adj/adv Question,Sampled_Original
+238,how big is my baby chart?,babycare,How + adj/adv Question,Sampled_Original
+239,how many weeks is my baby calculator?,babycare,How + adj/adv Question,Sampled_Original
+240,how much does baby formula cost?,babycare,How + adj/adv Question,Sampled_Original
+241,how do babies get colic?,babycare,How + adj/adv Question,Sampled_Original
+242,how big is baby at 21 weeks?,babycare,How + adj/adv Question,Sampled_Original
+243,how many babies are born?,babycare,How + adj/adv Question,Sampled_Original
+244,how old are babies when they roll over?,babycare,How + adj/adv Question,Sampled_Original
+245,how old is my baby in weeks?,babycare,How + adj/adv Question,Sampled_Original
+246,how many ounces should a baby eat chart?,babycare,How + adj/adv Question,Sampled_Original
+247,how are babies made for kids?,babycare,How + adj/adv Question,Sampled_Original
+248,how much should a 6 month old baby weigh?,babycare,How + adj/adv Question,Sampled_Original
+249,how long does it take to conceive a baby?,babycare,How + adj/adv Question,Sampled_Original
+250,how often are babies born?,babycare,How + adj/adv Question,Sampled_Original
+251,how long does baby acne last?,babycare,How + adj/adv Question,Sampled_Original
+252,how long after baby drops until labor?,babycare,How + adj/adv Question,Sampled_Original
+253,how many baby bottles do i need?,babycare,How + adj/adv Question,Sampled_Original
+254,how soon can you hear a baby's heartbeat?,babycare,How + adj/adv Question,Sampled_Original
+255,how many weeks to determine baby gender?,babycare,How + adj/adv Question,Sampled_Original
+256,how do babies get jaundice?,babycare,How + adj/adv Question,Sampled_Original
+257,how big is a baby at 18 weeks?,babycare,How + adj/adv Question,Sampled_Original
+258,how do babies learn language?,babycare,How + adj/adv Question,Sampled_Original
+259,how much formula should my baby be having?,babycare,How + adj/adv Question,Sampled_Original
+260,how does preeclampsia affect baby?,babycare,How + adj/adv Question,Sampled_Original
+261,how many baby teeth?,babycare,How + adj/adv Question,Sampled_Original
+262,how often should you feel your baby move?,babycare,How + adj/adv Question,Sampled_Original
+263,how much weight does a baby gain in the last month?,babycare,How + adj/adv Question,Sampled_Original
+264,how fast do babies grow?,babycare,How + adj/adv Question,Sampled_Original
+265,how much formula to feed baby?,babycare,How + adj/adv Question,Sampled_Original
+266,how old do babies start walking?,babycare,How + adj/adv Question,Sampled_Original
+267,how does baby powder cause ovarian cancer?,babycare,How + adj/adv Question,Sampled_Original
+268,how much formula baby needs?,babycare,How + adj/adv Question,Sampled_Original
+269,how much does it cost to have a baby hospital?,babycare,How + adj/adv Question,Sampled_Original
+270,how can i take care of my baby?,babycare,How + adj/adv Question,Sampled_Original
+271,how much tylenol for baby?,babycare,How + adj/adv Question,Sampled_Original
+272,how much baby food should a 6 month old eat?,babycare,How + adj/adv Question,Sampled_Original
+273,how much does it cost to adopt a baby?,babycare,How + adj/adv Question,Sampled_Original
+274,how a baby is made?,babycare,How + adj/adv Question,Sampled_Original
+275,how many baby teeth do kids have?,babycare,How + adj/adv Question,Sampled_Original
+276,how early can you feel baby move?,babycare,How + adj/adv Question,Sampled_Original
+277,how much does it cost to have a baby in usa?,babycare,How + adj/adv Question,Sampled_Original
+278,how often do babies poop?,babycare,How + adj/adv Question,Sampled_Original
+279,how many diapers does a baby use in a year?,babycare,How + adj/adv Question,Sampled_Original
+280,how much weight do babies gain per month?,babycare,How + adj/adv Question,Sampled_Original
+281,how do humans make babies?,babycare,How + adj/adv Question,Sampled_Original
+282,how much does a baby weigh at 20 weeks?,babycare,How + adj/adv Question,Sampled_Original
+283,how many babies are born a day?,babycare,How + adj/adv Question,Sampled_Original
+284,how big is baby at 5 weeks?,babycare,How + adj/adv Question,Sampled_Original
+285,how much weight should a baby gain each week?,babycare,How + adj/adv Question,Sampled_Original
+286,how long does it take to lose baby weight?,babycare,How + adj/adv Question,Sampled_Original
+287,how do babies get thrush?,babycare,How + adj/adv Question,Sampled_Original
+288,how big is a baby at 14 weeks?,babycare,How + adj/adv Question,Sampled_Original
+289,how long is a baby considered a newborn?,babycare,How + adj/adv Question,Sampled_Original
+290,how old can a baby fly?,babycare,How + adj/adv Question,Sampled_Original
+291,how are babies made video?,babycare,How + adj/adv Question,Sampled_Original
+292,how do babies breathe in the womb?,babycare,How + adj/adv Question,Sampled_Original
+293,how long does it take to have a baby?,babycare,How + adj/adv Question,Sampled_Original
+294,how are babies created?,babycare,How + adj/adv Question,Sampled_Original
+295,how do babies get rsv?,babycare,How + adj/adv Question,Sampled_Original
+296,how much do babies eat?,babycare,How + adj/adv Question,Sampled_Original
+297,how old are babies when they crawl?,babycare,How + adj/adv Question,Sampled_Original
+298,how often do you feed a newborn baby?,babycare,How + adj/adv Question,Sampled_Original
+299,how big is a baby at 12 weeks?,babycare,How + adj/adv Question,Sampled_Original
+300,how much does it cost to deliver a baby?,babycare,How + adj/adv Question,Sampled_Original
+301,how much weight do you put on in pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+302,how can you see that you are pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+303,how many times does it take to get pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+304,how old is my pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+305,how soon can a pregnancy test detect?,pregnancy,How + adj/adv Question,Sampled_Original
+306,how soon does a pregnancy test show positive?,pregnancy,How + adj/adv Question,Sampled_Original
+307,how long does it take to get pregnant after birth control?,pregnancy,How + adj/adv Question,Sampled_Original
+308,how common are false negative pregnancy test?,pregnancy,How + adj/adv Question,Sampled_Original
+309,how does a woman become pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+310,how effective are condoms against pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+311,how long before you can take a pregnancy test?,pregnancy,How + adj/adv Question,Sampled_Original
+312,how long does a pregnancy test take to show?,pregnancy,How + adj/adv Question,Sampled_Original
+313,how much should you gain during pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+314,how much can a pregnant woman lift?,pregnancy,How + adj/adv Question,Sampled_Original
+315,how soon can you take a blood pregnancy test?,pregnancy,How + adj/adv Question,Sampled_Original
+316,how do i know how many weeks pregnant i am?,pregnancy,How + adj/adv Question,Sampled_Original
+317,how many months is a woman pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+318,how do you know if you might be pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+319,how many days does it take to get pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+320,how do pregnancy tests work gcse biology?,pregnancy,How + adj/adv Question,Sampled_Original
+321,how many weeks in a normal pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+322,how does caffeine affect pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+323,how long is a normal pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+324,how soon can i test for pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+325,how long before you know your pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+326,how common are false positives pregnancy test?,pregnancy,How + adj/adv Question,Sampled_Original
+327,how much water should i drink during pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+328,how many months is 18 weeks pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+329,how many weeks in a pregnancy term?,pregnancy,How + adj/adv Question,Sampled_Original
+330,how many days after ovulation pregnancy test?,pregnancy,How + adj/adv Question,Sampled_Original
+331,how long after period to get pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+332,how do you know if your pregnant early?,pregnancy,How + adj/adv Question,Sampled_Original
+333,how do i know im pregnant early?,pregnancy,How + adj/adv Question,Sampled_Original
+334,how many weeks pregnant can you fly?,pregnancy,How + adj/adv Question,Sampled_Original
+335,how soon can a blood test detect pregnancy after conception?,pregnancy,How + adj/adv Question,Sampled_Original
+336,how far am i in my pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+337,how much iron does a pregnant woman need?,pregnancy,How + adj/adv Question,Sampled_Original
+338,how much caffeine can you have pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+339,how early can a pregnancy test detect?,pregnancy,How + adj/adv Question,Sampled_Original
+340,how soon after conception pregnancy test?,pregnancy,How + adj/adv Question,Sampled_Original
+341,how do i know if im pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+342,how much bleeding is normal during pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+343,how quickly can you get pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+344,how does pregnancy occur?,pregnancy,How + adj/adv Question,Sampled_Original
+345,how many weeks pregnancy test?,pregnancy,How + adj/adv Question,Sampled_Original
+346,how early can you get pregnancy symptoms?,pregnancy,How + adj/adv Question,Sampled_Original
+347,how many weeks is pregnancy in humans?,pregnancy,How + adj/adv Question,Sampled_Original
+348,how long are you pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+349,how much calcium does a pregnant woman need?,pregnancy,How + adj/adv Question,Sampled_Original
+350,how much caffeine during pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+351,how long can an ectopic pregnancy last?,pregnancy,How + adj/adv Question,Sampled_Original
+352,how soon can you get pregnant after a miscarriage?,pregnancy,How + adj/adv Question,Sampled_Original
+353,how long is the 1st trimester of pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+354,how old can a woman get pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+355,how many weeks in a trimester pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+356,how many months is 21 weeks pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+357,how much protein should a pregnant woman eat?,pregnancy,How + adj/adv Question,Sampled_Original
+358,how many calories should i eat when pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+359,how long is a trimester in pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+360,how long does nausea last in pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+361,how soon can you tell pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+362,how many trimester in pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+363,how i accidentally got pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+364,how many weeks are you pregnant for full term?,pregnancy,How + adj/adv Question,Sampled_Original
+365,how late can you fly when pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+366,how many tums can you take while pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+367,how many weeks are women pregnant for?,pregnancy,How + adj/adv Question,Sampled_Original
+368,how many weeks calculator pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+369,how long is a full term pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+370,how many days are you pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+371,how does a surrogate pregnancy work?,pregnancy,How + adj/adv Question,Sampled_Original
+372,how much weight should i gain while pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+373,how much weight should a woman of normal pre-pregnancy bmi gain during the first trimester?,pregnancy,How + adj/adv Question,Sampled_Original
+374,how long does it take to get a positive pregnancy test?,pregnancy,How + adj/adv Question,Sampled_Original
+375,how can u get pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+376,how early do you see signs of pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+377,how should pregnant women sleep?,pregnancy,How + adj/adv Question,Sampled_Original
+378,how long does it take for a pregnancy test to work?,pregnancy,How + adj/adv Question,Sampled_Original
+379,how many sonograms during pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+380,how far along am i pregnant calculator?,pregnancy,How + adj/adv Question,Sampled_Original
+381,how many weeks pregnant am i based on due date?,pregnancy,How + adj/adv Question,Sampled_Original
+382,how many weeks in first trimester pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+383,how much coffee can you drink when pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+384,how does an iud prevent pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+385,how do birth control pills prevent pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+386,how does it feel to be pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+387,how do you take a pregnancy test?,pregnancy,How + adj/adv Question,Sampled_Original
+388,how does the pill prevent pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+389,how long can it take to get pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+390,how do women get pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+391,how many months does pregnancy last?,pregnancy,How + adj/adv Question,Sampled_Original
+392,how soon can a pregnancy test work?,pregnancy,How + adj/adv Question,Sampled_Original
+393,how many months pregnant is 25 weeks?,pregnancy,How + adj/adv Question,Sampled_Original
+394,how early can you detect pregnancy symptoms?,pregnancy,How + adj/adv Question,Sampled_Original
+395,how many ultrasounds during pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+396,how long is a human pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+397,how early can i test for pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+398,how late in pregnancy can you fly?,pregnancy,How + adj/adv Question,Sampled_Original
+399,how does stress affect pregnancy?,pregnancy,How + adj/adv Question,Sampled_Original
+400,how long does it take to know if you pregnant?,pregnancy,How + adj/adv Question,Sampled_Original
+401,how to wean baby off formula?,babycare,How to Question,Sampled_Original
+402,how to make a baby mobile?,babycare,How to Question,Sampled_Original
+403,how to get baby to sleep in crib?,babycare,How to Question,Sampled_Original
+404,how to tell if baby is dehydrated?,babycare,How to Question,Sampled_Original
+405,how to help baby constipation?,babycare,How to Question,Sampled_Original
+406,how to make a simple baby quilt?,babycare,How to Question,Sampled_Original
+407,how to treat baby eczema?,babycare,How to Question,Sampled_Original
+408,how to look after a newborn baby boy?,babycare,How to Question,Sampled_Original
+409,how to teach baby sign language?,babycare,How to Question,Sampled_Original
+410,how to wash a baby?,babycare,How to Question,Sampled_Original
+411,how to plan for a baby?,babycare,How to Question,Sampled_Original
+412,how to encourage baby to walk?,babycare,How to Question,Sampled_Original
+413,how to raise a newborn baby?,babycare,How to Question,Sampled_Original
+414,how to make baby food?,babycare,How to Question,Sampled_Original
+415,how to care infant baby?,babycare,How to Question,Sampled_Original
+416,how to get baby to latch?,babycare,How to Question,Sampled_Original
+417,how to wean baby off bottle?,babycare,How to Question,Sampled_Original
+418,how to take good care of a baby?,babycare,How to Question,Sampled_Original
+419,how to help a baby crawl?,babycare,How to Question,Sampled_Original
+420,how to tell if baby is breech?,babycare,How to Question,Sampled_Original
+421,how to nurse a baby?,babycare,How to Question,Sampled_Original
+422,how to bottle feed a baby?,babycare,How to Question,Sampled_Original
+423,how to make baby move in womb?,babycare,How to Question,Sampled_Original
+424,how to get baby to drop?,babycare,How to Question,Sampled_Original
+425,how to encourage baby to crawl?,babycare,How to Question,Sampled_Original
+426,how to care for a newborn baby girl?,babycare,How to Question,Sampled_Original
+427,how to look after a newborn baby girl?,babycare,How to Question,Sampled_Original
+428,how to take care of a newborn baby at home?,babycare,How to Question,Sampled_Original
+429,how to make a baby go to sleep?,babycare,How to Question,Sampled_Original
+430,how to take care of infant baby?,babycare,How to Question,Sampled_Original
+431,how to install baby car seat?,babycare,How to Question,Sampled_Original
+432,how to prepare baby formula?,babycare,How to Question,Sampled_Original
+433,how to save for a baby?,babycare,How to Question,Sampled_Original
+434,how to take a baby's temperature?,babycare,How to Question,Sampled_Original
+435,how to babysit?,babycare,How to Question,Sampled_Original
+436,how to stop baby hiccups?,babycare,How to Question,Sampled_Original
+437,how to get baby to move?,babycare,How to Question,Sampled_Original
+438,how to help a teething baby?,babycare,How to Question,Sampled_Original
+439,how to get a breastfed baby to take a bottle?,babycare,How to Question,Sampled_Original
+440,how to make a baby diaper cake?,babycare,How to Question,Sampled_Original
+441,how to treat baby acne?,babycare,How to Question,Sampled_Original
+442,how to get rid of hiccups in babies?,babycare,How to Question,Sampled_Original
+443,how to increase baby weight?,babycare,How to Question,Sampled_Original
+444,how to clear baby acne?,babycare,How to Question,Sampled_Original
+445,how to take care of small baby?,babycare,How to Question,Sampled_Original
+446,how to help a constipated baby?,babycare,How to Question,Sampled_Original
+447,how to get a baby?,babycare,How to Question,Sampled_Original
+448,how to take good care of a newborn baby?,babycare,How to Question,Sampled_Original
+449,how to teach a baby to talk?,babycare,How to Question,Sampled_Original
+450,how to treat colic in babies?,babycare,How to Question,Sampled_Original
+451,how to introduce solids to baby?,babycare,How to Question,Sampled_Original
+452,how to get baby to sleep alone?,babycare,How to Question,Sampled_Original
+453,how to prepare for a baby?,babycare,How to Question,Sampled_Original
+454,how to tell if baby is teething?,babycare,How to Question,Sampled_Original
+455,how to get stains out of baby clothes?,babycare,How to Question,Sampled_Original
+456,how to make sweet potato baby food?,babycare,How to Question,Sampled_Original
+457,how to get baby to crawl?,babycare,How to Question,Sampled_Original
+458,how to put a baby to sleep?,babycare,How to Question,Sampled_Original
+459,how to make a baby sleep?,babycare,How to Question,Sampled_Original
+460,how to mix baby formula?,babycare,How to Question,Sampled_Original
+461,how to look after a baby girl?,babycare,How to Question,Sampled_Original
+462,how to breastfeed a baby?,babycare,How to Question,Sampled_Original
+463,how to take care of a baby boy?,babycare,How to Question,Sampled_Original
+464,how to produce a baby?,babycare,How to Question,Sampled_Original
+465,how to look after a baby?,babycare,How to Question,Sampled_Original
+466,how to have a healthy baby?,babycare,How to Question,Sampled_Original
+467,how to get twins baby?,babycare,How to Question,Sampled_Original
+468,how to take a newborn baby?,babycare,How to Question,Sampled_Original
+469,how to burp a newborn baby?,babycare,How to Question,Sampled_Original
+470,how to help baby roll over?,babycare,How to Question,Sampled_Original
+471,how to make baby food recipes?,babycare,How to Question,Sampled_Original
+472,how to prevent ear infections in babies?,babycare,How to Question,Sampled_Original
+473,how to treat newborn baby?,babycare,How to Question,Sampled_Original
+474,how to transition baby to crib?,babycare,How to Question,Sampled_Original
+475,how to calm a fussy baby?,babycare,How to Question,Sampled_Original
+476,how to care newly born baby?,babycare,How to Question,Sampled_Original
+477,how to take care of a baby for dummies?,babycare,How to Question,Sampled_Original
+478,how to birth a new baby?,babycare,How to Question,Sampled_Original
+479,how to deliver a baby at home?,babycare,How to Question,Sampled_Original
+480,how to help a choking baby?,babycare,How to Question,Sampled_Original
+481,how to make baby move in belly?,babycare,How to Question,Sampled_Original
+482,how to teach baby to crawl?,babycare,How to Question,Sampled_Original
+483,how to bring up a newborn baby?,babycare,How to Question,Sampled_Original
+484,how to take a baby?,babycare,How to Question,Sampled_Original
+485,how to treat a new born baby?,babycare,How to Question,Sampled_Original
+486,how to tell if baby has dropped?,babycare,How to Question,Sampled_Original
+487,how to look after a new born baby?,babycare,How to Question,Sampled_Original
+488,how to introduce baby food?,babycare,How to Question,Sampled_Original
+489,how to take care a newborn baby girl?,babycare,How to Question,Sampled_Original
+490,how to make a baby blanket?,babycare,How to Question,Sampled_Original
+491,how to born baby?,babycare,How to Question,Sampled_Original
+492,how to nurse a newborn baby?,babycare,How to Question,Sampled_Original
+493,how to teach baby to walk?,babycare,How to Question,Sampled_Original
+494,how to start feeding baby solids?,babycare,How to Question,Sampled_Original
+495,how to help baby acne?,babycare,How to Question,Sampled_Original
+496,how to soothe a teething baby?,babycare,How to Question,Sampled_Original
+497,how to know if baby has ear infection?,babycare,How to Question,Sampled_Original
+498,how to save a choking baby?,babycare,How to Question,Sampled_Original
+499,how to tell if baby is head down?,babycare,How to Question,Sampled_Original
+500,how to travel with a baby?,babycare,How to Question,Sampled_Original
+501,how to count pregnancy weeks?,pregnancy,How to Question,Sampled_Original
+502,how to get pregnant with twins?,pregnancy,How to Question,Sampled_Original
+503,how to get pregnant faster naturally?,pregnancy,How to Question,Sampled_Original
+504,how to prepare your body for pregnancy?,pregnancy,How to Question,Sampled_Original
+505,how to hide pregnancy?,pregnancy,How to Question,Sampled_Original
+506,how to relieve back pain during pregnancy?,pregnancy,How to Question,Sampled_Original
+507,how to induce lactation without pregnancy?,pregnancy,How to Question,Sampled_Original
+508,how to write pregnancy gravida history?,pregnancy,How to Question,Sampled_Original
+509,how to use pregnancy test kit?,pregnancy,How to Question,Sampled_Original
+510,how to avoid pregnancy naturally?,pregnancy,How to Question,Sampled_Original
+511,how to fall pregnant?,pregnancy,How to Question,Sampled_Original
+512,how to stop pregnancy nausea?,pregnancy,How to Question,Sampled_Original
+513,how to get rid of a uti while pregnant?,pregnancy,How to Question,Sampled_Original
+514,how to safely lose weight while pregnant?,pregnancy,How to Question,Sampled_Original
+515,how to detect pregnancy?,pregnancy,How to Question,Sampled_Original
+516,how to prevent gestational diabetes pregnancy?,pregnancy,How to Question,Sampled_Original
+517,how to check pregnancy?,pregnancy,How to Question,Sampled_Original
+518,how to check pregnancy at home?,pregnancy,How to Question,Sampled_Original
+519,how to terminate early pregnancy?,pregnancy,How to Question,Sampled_Original
+520,how to get rid of heartburn when pregnant?,pregnancy,How to Question,Sampled_Original
+521,how to prevent leg cramps during pregnancy?,pregnancy,How to Question,Sampled_Original
+522,how to abort pregnancy?,pregnancy,How to Question,Sampled_Original
+523,how to end a pregnancy?,pregnancy,How to Question,Sampled_Original
+524,how to get a positive pregnancy test?,pregnancy,How to Question,Sampled_Original
+525,how to make a homemade pregnancy test?,pregnancy,How to Question,Sampled_Original
+526,how to check pregnancy test?,pregnancy,How to Question,Sampled_Original
+527,how to do a pregnancy test?,pregnancy,How to Question,Sampled_Original
+528,how to get rid of early pregnancy?,pregnancy,How to Question,Sampled_Original
+529,how to tell if someone is pregnant?,pregnancy,How to Question,Sampled_Original
+530,how to reduce pregnancy swelling?,pregnancy,How to Question,Sampled_Original
+531,how to prepare for glucose test pregnancy?,pregnancy,How to Question,Sampled_Original
+532,how to lower blood pressure during pregnancy?,pregnancy,How to Question,Sampled_Original
+533,how to confirm pregnancy?,pregnancy,How to Question,Sampled_Original
+534,how to terminate a pregnancy?,pregnancy,How to Question,Sampled_Original
+535,how to determine how many weeks pregnant?,pregnancy,How to Question,Sampled_Original
+536,how to get pregnant with irregular periods?,pregnancy,How to Question,Sampled_Original
+537,how to prevent pregnancy?,pregnancy,How to Question,Sampled_Original
+538,how to prevent teen pregnancy?,pregnancy,How to Question,Sampled_Original
+539,how to relieve heartburn during pregnancy?,pregnancy,How to Question,Sampled_Original
+540,how to increase hcg levels in early pregnancy?,pregnancy,How to Question,Sampled_Original
+541,how to calculate when you got pregnant?,pregnancy,How to Question,Sampled_Original
+542,how to get energy while pregnant?,pregnancy,How to Question,Sampled_Original
+543,how to document pregnancy history?,pregnancy,How to Question,Sampled_Original
+544,how to use a pregnancy test?,pregnancy,How to Question,Sampled_Original
+545,how to fall pregnant quickly?,pregnancy,How to Question,Sampled_Original
+546,how to relieve constipation during pregnancy?,pregnancy,How to Question,Sampled_Original
+547,how to avoid stretch marks during pregnancy?,pregnancy,How to Question,Sampled_Original
+548,how to maintain weight during pregnancy?,pregnancy,How to Question,Sampled_Original
+549,how to make a woman pregnant?,pregnancy,How to Question,Sampled_Original
+550,how to get pregnant wikihow?,pregnancy,How to Question,Sampled_Original
+551,how to get pregnant faster?,pregnancy,How to Question,Sampled_Original
+552,how to confirm pregnancy at home?,pregnancy,How to Question,Sampled_Original
+553,how to make a pregnancy test?,pregnancy,How to Question,Sampled_Original
+554,how to get pregnancy?,pregnancy,How to Question,Sampled_Original
+555,how to terminate pregnancy naturally?,pregnancy,How to Question,Sampled_Original
+556,how to calculate how far along pregnant?,pregnancy,How to Question,Sampled_Original
+557,how to treat preeclampsia in pregnancy?,pregnancy,How to Question,Sampled_Original
+558,how to get pregnant with twins naturally?,pregnancy,How to Question,Sampled_Original
+559,how to relieve nausea during pregnancy?,pregnancy,How to Question,Sampled_Original
+560,how to make a pregnancy test positive?,pregnancy,How to Question,Sampled_Original
+561,how to tell if youre pregnant?,pregnancy,How to Question,Sampled_Original
+562,how to tell family you're pregnant?,pregnancy,How to Question,Sampled_Original
+563,how to calculate pregnancy month?,pregnancy,How to Question,Sampled_Original
+564,how to check pregnancy test at home?,pregnancy,How to Question,Sampled_Original
+565,how to treat a cold when pregnant?,pregnancy,How to Question,Sampled_Original
+566,how to avoid pregnancy?,pregnancy,How to Question,Sampled_Original
+567,how to control weight during pregnancy?,pregnancy,How to Question,Sampled_Original
+568,how to get pregnant quick?,pregnancy,How to Question,Sampled_Original
+569,how to pass a glucose test during pregnancy?,pregnancy,How to Question,Sampled_Original
+570,how to sleep during pregnancy?,pregnancy,How to Question,Sampled_Original
+571,how to calculate edd in pregnancy?,pregnancy,How to Question,Sampled_Original
+572,how to prevent preeclampsia in pregnancy?,pregnancy,How to Question,Sampled_Original
+573,how to use clearblue pregnancy test?,pregnancy,How to Question,Sampled_Original
+574,how to stay fit during pregnancy?,pregnancy,How to Question,Sampled_Original
+575,how to identify pregnancy?,pregnancy,How to Question,Sampled_Original
+576,how to get twins pregnancy?,pregnancy,How to Question,Sampled_Original
+577,how to prevent stretch marks during pregnancy?,pregnancy,How to Question,Sampled_Original
+578,how to get rid of heartburn during pregnancy?,pregnancy,How to Question,Sampled_Original
+579,how to prevent swelling during pregnancy?,pregnancy,How to Question,Sampled_Original
+580,how to know if you are pregnant without test?,pregnancy,How to Question,Sampled_Original
+581,how to use pregnancy kit?,pregnancy,How to Question,Sampled_Original
+582,how to prevent nausea during pregnancy?,pregnancy,How to Question,Sampled_Original
+583,how to sleep when pregnant?,pregnancy,How to Question,Sampled_Original
+584,how to get pregnant with low sperm count?,pregnancy,How to Question,Sampled_Original
+585,how to get rid of pregnancy nausea?,pregnancy,How to Question,Sampled_Original
+586,how to read a pregnancy test?,pregnancy,How to Question,Sampled_Original
+587,how to tell how far along pregnant you are?,pregnancy,How to Question,Sampled_Original
+588,how to prepare to get pregnant?,pregnancy,How to Question,Sampled_Original
+589,how to treat gestational diabetes pregnancy?,pregnancy,How to Question,Sampled_Original
+590,how to know if someone is pregnant?,pregnancy,How to Question,Sampled_Original
+591,how to lactate without pregnancy?,pregnancy,How to Question,Sampled_Original
+592,how to tell if ur pregnant?,pregnancy,How to Question,Sampled_Original
+593,how to get pregnant naturally?,pregnancy,How to Question,Sampled_Original
+594,how to fight pregnancy fatigue?,pregnancy,How to Question,Sampled_Original
+595,how to abort pregnancy naturally?,pregnancy,How to Question,Sampled_Original
+596,how to help morning sickness during pregnancy?,pregnancy,How to Question,Sampled_Original
+597,how to determine how far along in pregnancy?,pregnancy,How to Question,Sampled_Original
+598,how to diagnose ectopic pregnancy?,pregnancy,How to Question,Sampled_Original
+599,how to take clomid for pregnancy?,pregnancy,How to Question,Sampled_Original
+600,how to stay healthy during pregnancy?,pregnancy,How to Question,Sampled_Original
+601,what is considered a premature baby?,babycare,Wh* Question,Sampled_Original
+602,what causes baby acne?,babycare,Wh* Question,Sampled_Original
+603,what to add to baby registry?,babycare,Wh* Question,Sampled_Original
+604,what is baby powder made of?,babycare,Wh* Question,Sampled_Original
+605,what causes stillborn babies at full term?,babycare,Wh* Question,Sampled_Original
+606,where do babies come from for kids?,babycare,Wh* Question,Sampled_Original
+607,what to write baby shower card?,babycare,Wh* Question,Sampled_Original
+608,what does a baby need?,babycare,Wh* Question,Sampled_Original
+609,what is an ivf baby?,babycare,Wh* Question,Sampled_Original
+610,what causes thrush in babies?,babycare,Wh* Question,Sampled_Original
+611,what is baby oil made from?,babycare,Wh* Question,Sampled_Original
+612,what does my baby look like?,babycare,Wh* Question,Sampled_Original
+613,what do you need for a baby?,babycare,Wh* Question,Sampled_Original
+614,what age can a baby fly?,babycare,Wh* Question,Sampled_Original
+615,what does a baby look like at 12 weeks?,babycare,Wh* Question,Sampled_Original
+616,what babies can eat chart?,babycare,Wh* Question,Sampled_Original
+617,what to feed a one year old baby?,babycare,Wh* Question,Sampled_Original
+618,what age do babies start eating baby food?,babycare,Wh* Question,Sampled_Original
+619,what to write in a new baby card?,babycare,Wh* Question,Sampled_Original
+620,what do babysitters do?,babycare,Wh* Question,Sampled_Original
+621,where to buy baby stuff?,babycare,Wh* Question,Sampled_Original
+622,what age do you lose baby teeth?,babycare,Wh* Question,Sampled_Original
+623,what color are babies eyes at birth?,babycare,Wh* Question,Sampled_Original
+624,what do baby kicks feel like?,babycare,Wh* Question,Sampled_Original
+625,what to say in a new baby card?,babycare,Wh* Question,Sampled_Original
+626,what is a colicky baby?,babycare,Wh* Question,Sampled_Original
+627,what does it feel like when baby moves?,babycare,Wh* Question,Sampled_Original
+628,what to expect the first year baby?,babycare,Wh* Question,Sampled_Original
+629,what does baby movement feel like?,babycare,Wh* Question,Sampled_Original
+630,what age do babies get measles vaccine?,babycare,Wh* Question,Sampled_Original
+631,what to pack in baby hospital bag?,babycare,Wh* Question,Sampled_Original
+632,what type of doctor delivers babies?,babycare,Wh* Question,Sampled_Original
+633,what percentile is my baby?,babycare,Wh* Question,Sampled_Original
+634,what causes sids in babies?,babycare,Wh* Question,Sampled_Original
+635,what is a premature baby?,babycare,Wh* Question,Sampled_Original
+636,what age do babies eyes change colour?,babycare,Wh* Question,Sampled_Original
+637,what to put on a baby registry?,babycare,Wh* Question,Sampled_Original
+638,what is a baby shower?,babycare,Wh* Question,Sampled_Original
+639,what is the earliest a baby can survive birth?,babycare,Wh* Question,Sampled_Original
+640,what week can you hear baby's heartbeat?,babycare,Wh* Question,Sampled_Original
+641,what causes colic in babies?,babycare,Wh* Question,Sampled_Original
+642,what week can you tell gender of baby?,babycare,Wh* Question,Sampled_Original
+643,what is baby oil good for?,babycare,Wh* Question,Sampled_Original
+644,what is a stillborn baby?,babycare,Wh* Question,Sampled_Original
+645,what do i need for a new baby?,babycare,Wh* Question,Sampled_Original
+646,what to give babies for constipation?,babycare,Wh* Question,Sampled_Original
+647,what is a rainbow baby?,babycare,Wh* Question,Sampled_Original
+648,what to do if a baby is choking?,babycare,Wh* Question,Sampled_Original
+649,what causes reflux in babies?,babycare,Wh* Question,Sampled_Original
+650,what is baby powder used for?,babycare,Wh* Question,Sampled_Original
+651,what to say to someone who has lost a baby?,babycare,Wh* Question,Sampled_Original
+652,what is a baby nurse called?,babycare,Wh* Question,Sampled_Original
+653,what does a baby look like at 20 weeks?,babycare,Wh* Question,Sampled_Original
+654,what color will my baby's eyes be?,babycare,Wh* Question,Sampled_Original
+655,what is a boarder baby?,babycare,Wh* Question,Sampled_Original
+656,what does it mean when baby drops?,babycare,Wh* Question,Sampled_Original
+657,what causes rsv in babies?,babycare,Wh* Question,Sampled_Original
+658,what does baby powder do?,babycare,Wh* Question,Sampled_Original
+659,what shots do babies get at 2 months?,babycare,Wh* Question,Sampled_Original
+660,what color eyes are babies born with?,babycare,Wh* Question,Sampled_Original
+661,what age can babies have water?,babycare,Wh* Question,Sampled_Original
+662,what causes a stillborn baby?,babycare,Wh* Question,Sampled_Original
+663,what do you need to take care of a baby?,babycare,Wh* Question,Sampled_Original
+664,what is baby oil?,babycare,Wh* Question,Sampled_Original
+665,where to donate baby formula?,babycare,Wh* Question,Sampled_Original
+666,what causes ear infections in babies?,babycare,Wh* Question,Sampled_Original
+667,where does baby oil come from?,babycare,Wh* Question,Sampled_Original
+668,what are designer babies?,babycare,Wh* Question,Sampled_Original
+669,what age do kids lose baby teeth?,babycare,Wh* Question,Sampled_Original
+670,what to bring to a baby shower?,babycare,Wh* Question,Sampled_Original
+671,what should a baby's temperature be?,babycare,Wh* Question,Sampled_Original
+672,what is the first sense a baby develops?,babycare,Wh* Question,Sampled_Original
+673,what vaccines do babies get?,babycare,Wh* Question,Sampled_Original
+674,what age do babies start smiling?,babycare,Wh* Question,Sampled_Original
+675,which baby teeth come in first?,babycare,Wh* Question,Sampled_Original
+676,what is baby oil used for?,babycare,Wh* Question,Sampled_Original
+677,what reflexes are babies born with?,babycare,Wh* Question,Sampled_Original
+678,what age can babies swim?,babycare,Wh* Question,Sampled_Original
+679,what to feed 10 month old baby?,babycare,Wh* Question,Sampled_Original
+680,what is a good age to have a baby?,babycare,Wh* Question,Sampled_Original
+681,what age do babies crawl and walk?,babycare,Wh* Question,Sampled_Original
+682,what to feed 7 month old baby?,babycare,Wh* Question,Sampled_Original
+683,what to give a constipated baby?,babycare,Wh* Question,Sampled_Original
+684,what does it mean when a baby is breech?,babycare,Wh* Question,Sampled_Original
+685,what is baby acne?,babycare,Wh* Question,Sampled_Original
+686,what is a baby shower uk?,babycare,Wh* Question,Sampled_Original
+687,what causes seizures in babies?,babycare,Wh* Question,Sampled_Original
+688,what can babies eat at 6 months?,babycare,Wh* Question,Sampled_Original
+689,what size to make a baby blanket?,babycare,Wh* Question,Sampled_Original
+690,what does a baby look like at 9 weeks?,babycare,Wh* Question,Sampled_Original
+691,what causes a breech baby?,babycare,Wh* Question,Sampled_Original
+692,what does it feel like when baby drops?,babycare,Wh* Question,Sampled_Original
+693,what is a stone baby?,babycare,Wh* Question,Sampled_Original
+694,where do babies grow?,babycare,Wh* Question,Sampled_Original
+695,what age can babies eat baby food?,babycare,Wh* Question,Sampled_Original
+696,what to write in a baby shower thank you card?,babycare,Wh* Question,Sampled_Original
+697,where do babies come from?,babycare,Wh* Question,Sampled_Original
+698,what week are most babies born?,babycare,Wh* Question,Sampled_Original
+699,what age to start baby food?,babycare,Wh* Question,Sampled_Original
+700,what does a baby look like at 4 weeks?,babycare,Wh* Question,Sampled_Original
+701,what is pregnancy brain?,pregnancy,Wh* Question,Sampled_Original
+702,what can i take for a headache while pregnant?,pregnancy,Wh* Question,Sampled_Original
+703,what does nst stand for in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+704,what does gbs positive mean in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+705,what can pregnant women take for heartburn?,pregnancy,Wh* Question,Sampled_Original
+706,what does protein in urine mean when pregnant?,pregnancy,Wh* Question,Sampled_Original
+707,what cold medicine can i take while pregnant?,pregnancy,Wh* Question,Sampled_Original
+708,what does an ectopic pregnancy feel like?,pregnancy,Wh* Question,Sampled_Original
+709,what can pregnant women take for nausea?,pregnancy,Wh* Question,Sampled_Original
+710,what does pregnancy medicaid cover?,pregnancy,Wh* Question,Sampled_Original
+711,what causes protein in urine during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+712,what to do when you find out your pregnant?,pregnancy,Wh* Question,Sampled_Original
+713,what happens if you take birth control while pregnant?,pregnancy,Wh* Question,Sampled_Original
+714,what causes autism during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+715,what benefits am i entitled to when pregnant?,pregnancy,Wh* Question,Sampled_Original
+716,what happens in the first trimester pregnancy?,pregnancy,Wh* Question,Sampled_Original
+717,what is teenage pregnancy?,pregnancy,Wh* Question,Sampled_Original
+718,which pregnancy test detects the earliest?,pregnancy,Wh* Question,Sampled_Original
+719,what to expect pregnancy week by week?,pregnancy,Wh* Question,Sampled_Original
+720,what to avoid when pregnant?,pregnancy,Wh* Question,Sampled_Original
+721,what nutrients do pregnant women need?,pregnancy,Wh* Question,Sampled_Original
+722,what is considered a full term pregnancy?,pregnancy,Wh* Question,Sampled_Original
+723,what can pregnant women take for sore throat?,pregnancy,Wh* Question,Sampled_Original
+724,what can't you eat when pregnant?,pregnancy,Wh* Question,Sampled_Original
+725,what is considered a high risk pregnancy?,pregnancy,Wh* Question,Sampled_Original
+726,what decongestant is safe during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+727,what causes morning sickness during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+728,what happens in each trimester of pregnancy?,pregnancy,Wh* Question,Sampled_Original
+729,what causes heartburn during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+730,what is a phantom pregnancy?,pregnancy,Wh* Question,Sampled_Original
+731,what age is considered geriatric pregnancy?,pregnancy,Wh* Question,Sampled_Original
+732,what is pih in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+733,what days can you get pregnant?,pregnancy,Wh* Question,Sampled_Original
+734,what is surrogacy pregnancy?,pregnancy,Wh* Question,Sampled_Original
+735,what can pregnant women take for constipation?,pregnancy,Wh* Question,Sampled_Original
+736,what do early pregnancy cramps feel like?,pregnancy,Wh* Question,Sampled_Original
+737,what is a sweep in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+738,what is an anatomy scan in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+739,what color is spotting in early pregnancy?,pregnancy,Wh* Question,Sampled_Original
+740,what does parity mean in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+741,what does spotting look like in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+742,what can i take for constipation pregnant?,pregnancy,Wh* Question,Sampled_Original
+743,what to eat before glucose test pregnancy?,pregnancy,Wh* Question,Sampled_Original
+744,what is a tubal pregnancy?,pregnancy,Wh* Question,Sampled_Original
+745,what does g3p1011 mean in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+746,what does a pregnancy test detect?,pregnancy,Wh* Question,Sampled_Original
+747,what is early pregnancy?,pregnancy,Wh* Question,Sampled_Original
+748,what do pregnancy cramps feel like?,pregnancy,Wh* Question,Sampled_Original
+749,what is edc pregnancy?,pregnancy,Wh* Question,Sampled_Original
+750,what can i take for nausea during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+751,what does para mean in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+752,what is considered geriatric pregnancy?,pregnancy,Wh* Question,Sampled_Original
+753,what is iui pregnancy?,pregnancy,Wh* Question,Sampled_Original
+754,what causes your water to break when pregnant?,pregnancy,Wh* Question,Sampled_Original
+755,what causes constipation during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+756,what to expect at 6 weeks pregnant?,pregnancy,Wh* Question,Sampled_Original
+757,what to eat to get pregnant?,pregnancy,Wh* Question,Sampled_Original
+758,what causes nausea during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+759,what can pregnant women take for congestion?,pregnancy,Wh* Question,Sampled_Original
+760,what week is the third trimester of pregnancy?,pregnancy,Wh* Question,Sampled_Original
+761,what happens after ovulation if your pregnant?,pregnancy,Wh* Question,Sampled_Original
+762,what can you take for nausea while pregnant?,pregnancy,Wh* Question,Sampled_Original
+763,what is placenta previa in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+764,what can i take for a cold when pregnant?,pregnancy,Wh* Question,Sampled_Original
+765,what does edc stand for in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+766,what pregnancy test works the earliest?,pregnancy,Wh* Question,Sampled_Original
+767,what can i take for heartburn while pregnant?,pregnancy,Wh* Question,Sampled_Original
+768,what to take for heartburn during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+769,what side should pregnant women sleep on?,pregnancy,Wh* Question,Sampled_Original
+770,what happens in an ectopic pregnancy?,pregnancy,Wh* Question,Sampled_Original
+771,what happens at first pregnancy appointment?,pregnancy,Wh* Question,Sampled_Original
+772,what is ivf for pregnancy?,pregnancy,Wh* Question,Sampled_Original
+773,what does pregnancy spotting look like?,pregnancy,Wh* Question,Sampled_Original
+774,what is multiparous pregnancy?,pregnancy,Wh* Question,Sampled_Original
+775,what is a molar pregnancy?,pregnancy,Wh* Question,Sampled_Original
+776,what to expect at 32 weeks pregnant?,pregnancy,Wh* Question,Sampled_Original
+777,what is oligohydramnios in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+778,what should pregnant women avoid?,pregnancy,Wh* Question,Sampled_Original
+779,what does it feel like to be pregnant?,pregnancy,Wh* Question,Sampled_Original
+780,what hcg level indicates pregnancy?,pregnancy,Wh* Question,Sampled_Original
+781,what to eat when pregnant first trimester?,pregnancy,Wh* Question,Sampled_Original
+782,what is implantation in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+783,what do contractions feel like pregnancy?,pregnancy,Wh* Question,Sampled_Original
+784,which component of weight gain accounts for the greatest amount of increased weight during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+785,what hormone do pregnancy tests detect?,pregnancy,Wh* Question,Sampled_Original
+786,what to eat in early pregnancy?,pregnancy,Wh* Question,Sampled_Original
+787,what does early pregnancy feel like?,pregnancy,Wh* Question,Sampled_Original
+788,what constitutes a high risk pregnancy?,pregnancy,Wh* Question,Sampled_Original
+789,which cervical changes are observed during pregnancy? select all that apply.?,pregnancy,Wh* Question,Sampled_Original
+790,what can a pregnant woman take for a cold?,pregnancy,Wh* Question,Sampled_Original
+791,what happens if you smoke while pregnant?,pregnancy,Wh* Question,Sampled_Original
+792,what causes headaches during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+793,what causes high blood pressure in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+794,what makes a pregnancy high risk?,pregnancy,Wh* Question,Sampled_Original
+795,what to take when you want to get pregnant?,pregnancy,Wh* Question,Sampled_Original
+796,what is hyperemesis gravidarum in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+797,what is pre-eclampsia condition in pregnancy?,pregnancy,Wh* Question,Sampled_Original
+798,what age is considered high risk pregnancy?,pregnancy,Wh* Question,Sampled_Original
+799,what causes down syndrome during pregnancy?,pregnancy,Wh* Question,Sampled_Original
+800,what is a chemical pregnancy?,pregnancy,Wh* Question,Sampled_Original
+801,when do babies transition to 1 nap?,babycare,When Question,Sampled_Original
+802,when to start sleep training baby?,babycare,When Question,Sampled_Original
+803,when can babies drink regular milk?,babycare,When Question,Sampled_Original
+804,when do you start feeling baby movements?,babycare,When Question,Sampled_Original
+805,when do babies wave bye-bye?,babycare,When Question,Sampled_Original
+806,when do babies start playing with toys?,babycare,When Question,Sampled_Original
+807,when do babies laugh out loud?,babycare,When Question,Sampled_Original
+808,when can babies have cheerios?,babycare,When Question,Sampled_Original
+809,when can you start feeling baby move?,babycare,When Question,Sampled_Original
+810,when do babies crawl on average?,babycare,When Question,Sampled_Original
+811,when do babies start potty training?,babycare,When Question,Sampled_Original
+812,when do babies start teething chart?,babycare,When Question,Sampled_Original
+813,when do babies start cereal?,babycare,When Question,Sampled_Original
+814,when can other people feel baby move?,babycare,When Question,Sampled_Original
+815,when can a baby sleep with a blanket?,babycare,When Question,Sampled_Original
+816,when do babies learn to talk?,babycare,When Question,Sampled_Original
+817,when do babies laugh?,babycare,When Question,Sampled_Original
+818,when can babies eat meat?,babycare,When Question,Sampled_Original
+819,when does a baby get a heartbeat?,babycare,When Question,Sampled_Original
+820,when do babies get first tooth?,babycare,When Question,Sampled_Original
+821,when can babies see clearly?,babycare,When Question,Sampled_Original
+822,when is a baby considered alive?,babycare,When Question,Sampled_Original
+823,when do babies clap?,babycare,When Question,Sampled_Original
+824,when do babies smile for the first time?,babycare,When Question,Sampled_Original
+825,when can you hear a baby's heartbeat in womb?,babycare,When Question,Sampled_Original
+826,when do babies crawl and walk?,babycare,When Question,Sampled_Original
+827,when do you send out baby shower invitations?,babycare,When Question,Sampled_Original
+828,when do babies start dreaming?,babycare,When Question,Sampled_Original
+829,when do babies crawl?,babycare,When Question,Sampled_Original
+830,when do babies sit up and crawl?,babycare,When Question,Sampled_Original
+831,when do babies turn head down?,babycare,When Question,Sampled_Original
+832,when do babies speak first words?,babycare,When Question,Sampled_Original
+833,when do babies start to coo?,babycare,When Question,Sampled_Original
+834,when is it safe to deliver a baby?,babycare,When Question,Sampled_Original
+835,when to start brushing baby teeth?,babycare,When Question,Sampled_Original
+836,when do babies flip head down?,babycare,When Question,Sampled_Original
+837,when do babies start standing?,babycare,When Question,Sampled_Original
+838,when do babies start talking words?,babycare,When Question,Sampled_Original
+839,when do babies get measles vaccine?,babycare,When Question,Sampled_Original
+840,when do babies start laughing?,babycare,When Question,Sampled_Original
+841,when do babies drop to one nap?,babycare,When Question,Sampled_Original
+842,when do babies stop napping?,babycare,When Question,Sampled_Original
+843,when do babies grow teeth?,babycare,When Question,Sampled_Original
+844,when do babies start cutting teeth?,babycare,When Question,Sampled_Original
+845,when do babies eyes change color permanently?,babycare,When Question,Sampled_Original
+846,when do babies make eye contact?,babycare,When Question,Sampled_Original
+847,when do babies start tummy time?,babycare,When Question,Sampled_Original
+848,when do babies start talking?,babycare,When Question,Sampled_Original
+849,when can babies use blankets?,babycare,When Question,Sampled_Original
+850,when can babies go swimming?,babycare,When Question,Sampled_Original
+851,when does a baby's heartbeat start?,babycare,When Question,Sampled_Original
+852,when does a baby's soft spot close?,babycare,When Question,Sampled_Original
+853,when is a fetus considered a baby?,babycare,When Question,Sampled_Original
+854,when do babies start rolling?,babycare,When Question,Sampled_Original
+855,when can babies hear in utero?,babycare,When Question,Sampled_Original
+856,when can babies eat scrambled eggs?,babycare,When Question,Sampled_Original
+857,when do fontanelles close in babies?,babycare,When Question,Sampled_Original
+858,when should a baby stop using a bottle?,babycare,When Question,Sampled_Original
+859,when to introduce water to baby?,babycare,When Question,Sampled_Original
+860,when do babies stand alone?,babycare,When Question,Sampled_Original
+861,when baby sleep get better at night?,babycare,When Question,Sampled_Original
+862,when can you hear baby heartbeat?,babycare,When Question,Sampled_Original
+863,when does a fetus become a baby?,babycare,When Question,Sampled_Original
+864,when do babies get molars?,babycare,When Question,Sampled_Original
+865,when do babies begin to walk?,babycare,When Question,Sampled_Original
+866,when to move baby to crib?,babycare,When Question,Sampled_Original
+867,when is a baby viable outside the womb?,babycare,When Question,Sampled_Original
+868,when do babies start sitting up unassisted?,babycare,When Question,Sampled_Original
+869,when can babies see colour?,babycare,When Question,Sampled_Original
+870,when can a baby's heartbeat be detected?,babycare,When Question,Sampled_Original
+871,when can babies start drinking water?,babycare,When Question,Sampled_Original
+872,when can babies have whole milk?,babycare,When Question,Sampled_Original
+873,when can i give my baby cereal?,babycare,When Question,Sampled_Original
+874,when to stop bottle feeding babies?,babycare,When Question,Sampled_Original
+875,when do babies sit unassisted?,babycare,When Question,Sampled_Original
+876,when to introduce peanut butter to baby?,babycare,When Question,Sampled_Original
+877,when can you find out the gender of your baby?,babycare,When Question,Sampled_Original
+878,when do kids lose baby teeth?,babycare,When Question,Sampled_Original
+879,when does a baby's brain develop?,babycare,When Question,Sampled_Original
+880,when do babies eyes change colour?,babycare,When Question,Sampled_Original
+881,when do babies start smiling intentionally?,babycare,When Question,Sampled_Original
+882,when do babies first roll over?,babycare,When Question,Sampled_Original
+883,when do babies turn over?,babycare,When Question,Sampled_Original
+884,when can babies have cow milk?,babycare,When Question,Sampled_Original
+885,when do babies start walking on average?,babycare,When Question,Sampled_Original
+886,when do people have baby showers?,babycare,When Question,Sampled_Original
+887,when do babies start eating solid food?,babycare,When Question,Sampled_Original
+888,when a baby dies?,babycare,When Question,Sampled_Original
+889,when do babies eyes focus?,babycare,When Question,Sampled_Original
+890,when does a baby heart start beating?,babycare,When Question,Sampled_Original
+891,when do babies start holding their head up?,babycare,When Question,Sampled_Original
+892,when do babies get vaccinated?,babycare,When Question,Sampled_Original
+893,when do babies get mmr vaccine?,babycare,When Question,Sampled_Original
+894,when do babies start walking well?,babycare,When Question,Sampled_Original
+895,when do babies learn to crawl?,babycare,When Question,Sampled_Original
+896,when can babies start eating cereal?,babycare,When Question,Sampled_Original
+897,when will my baby be born calculator?,babycare,When Question,Sampled_Original
+898,when do babies babble?,babycare,When Question,Sampled_Original
+899,when can babies face forward in car seat?,babycare,When Question,Sampled_Original
+900,when to send baby shower invites?,babycare,When Question,Sampled_Original
+901,when am i due pregnancy?,pregnancy,When Question,Sampled_Original
+902,when am i due pregnant?,pregnancy,When Question,Sampled_Original
+903,when are you least likely to get pregnant?,pregnancy,When Question,Sampled_Original
+904,when are you most fertile to get pregnant?,pregnancy,When Question,Sampled_Original
+905,when are you most likely to get pregnant?,pregnancy,When Question,Sampled_Original
+906,when can a girl become pregnant?,pregnancy,When Question,Sampled_Original
+907,when can a heartbeat be detected in pregnancy?,pregnancy,When Question,Sampled_Original
+908,when can i take a pregnancy test calculator?,pregnancy,When Question,Sampled_Original
+909,when can you hear a heartbeat in pregnancy?,pregnancy,When Question,Sampled_Original
+910,when can you tell people you're pregnant?,pregnancy,When Question,Sampled_Original
+911,when did i get pregnant exactly?,pregnancy,When Question,Sampled_Original
+912,when did i get pregnant exactly calculator?,pregnancy,When Question,Sampled_Original
+913,when do braxton hicks start in pregnancy?,pregnancy,When Question,Sampled_Original
+914,when do cravings start during pregnancy?,pregnancy,When Question,Sampled_Original
+915,when do ectopic pregnancy symptoms occur?,pregnancy,When Question,Sampled_Original
+916,when do people announce pregnancy?,pregnancy,When Question,Sampled_Original
+917,when do pregnancy symptoms begin?,pregnancy,When Question,Sampled_Original
+918,when do pregnant women start producing milk?,pregnancy,When Question,Sampled_Original
+919,when do pregnant women start showing?,pregnancy,When Question,Sampled_Original
+920,when do signs of pregnancy start?,pregnancy,When Question,Sampled_Original
+921,when do stretch marks occur during pregnancy?,pregnancy,When Question,Sampled_Original
+922,when do women start showing pregnancy?,pregnancy,When Question,Sampled_Original
+923,when do you feel pregnancy symptoms?,pregnancy,When Question,Sampled_Original
+924,when do you get morning sickness if pregnant?,pregnancy,When Question,Sampled_Original
+925,when do you get morning sickness in pregnancy?,pregnancy,When Question,Sampled_Original
+926,when do you get pregnancy symptoms?,pregnancy,When Question,Sampled_Original
+927,when do you get ultrasounds during pregnancy?,pregnancy,When Question,Sampled_Original
+928,when do you get your period after pregnancy?,pregnancy,When Question,Sampled_Original
+929,when do you have to stop flying when pregnant?,pregnancy,When Question,Sampled_Original
+930,when do you start feeling nausea in pregnancy?,pregnancy,When Question,Sampled_Original
+931,when do you start feeling pregnancy symptoms?,pregnancy,When Question,Sampled_Original
+932,when do you start feeling pregnant?,pregnancy,When Question,Sampled_Original
+933,when do you start gaining weight in pregnancy?,pregnancy,When Question,Sampled_Original
+934,when do you start getting pregnancy symptoms?,pregnancy,When Question,Sampled_Original
+935,when do you start producing milk in pregnancy?,pregnancy,When Question,Sampled_Original
+936,when do you start showing in first pregnancy?,pregnancy,When Question,Sampled_Original
+937,when do you start showing in pregnancy?,pregnancy,When Question,Sampled_Original
+938,when do you start showing in second pregnancy?,pregnancy,When Question,Sampled_Original
+939,when do you start showing signs of pregnancy?,pregnancy,When Question,Sampled_Original
+940,when do you start showing when pregnant?,pregnancy,When Question,Sampled_Original
+941,when does a heartbeat begin in pregnancy?,pregnancy,When Question,Sampled_Original
+942,when does a pregnant belly show?,pregnancy,When Question,Sampled_Original
+943,when does ectopic pregnancy occur?,pregnancy,When Question,Sampled_Original
+944,when does fatigue start in pregnancy?,pregnancy,When Question,Sampled_Original
+945,when does frequent urination start pregnancy?,pregnancy,When Question,Sampled_Original
+946,when does heartbeat start in pregnancy?,pregnancy,When Question,Sampled_Original
+947,when does heartburn start in pregnancy?,pregnancy,When Question,Sampled_Original
+948,when does implantation occur in pregnancy?,pregnancy,When Question,Sampled_Original
+949,when does milk come in pregnancy?,pregnancy,When Question,Sampled_Original
+950,when does milk start during pregnancy?,pregnancy,When Question,Sampled_Original
+951,when does morning sickness begin in pregnancy?,pregnancy,When Question,Sampled_Original
+952,when does morning sickness start in pregnancy?,pregnancy,When Question,Sampled_Original
+953,when does nausea start in pregnancy?,pregnancy,When Question,Sampled_Original
+954,when does nesting start during pregnancy?,pregnancy,When Question,Sampled_Original
+955,when does preeclampsia develop in pregnancy?,pregnancy,When Question,Sampled_Original
+956,when does pregnancy brain start?,pregnancy,When Question,Sampled_Original
+957,when does pregnancy nausea end?,pregnancy,When Question,Sampled_Original
+958,when does pregnancy start?,pregnancy,When Question,Sampled_Original
+959,when does swelling start in pregnancy?,pregnancy,When Question,Sampled_Original
+960,when does the heart develop in pregnancy?,pregnancy,When Question,Sampled_Original
+961,when does the third trimester start pregnancy?,pregnancy,When Question,Sampled_Original
+962,when does your belly start showing pregnancy?,pregnancy,When Question,Sampled_Original
+963,when does your stomach harden when pregnant?,pregnancy,When Question,Sampled_Original
+964,when is a good time to take a pregnancy test?,pregnancy,When Question,Sampled_Original
+965,when is a woman most likely to get pregnant?,pregnancy,When Question,Sampled_Original
+966,when is gender determined in pregnancy?,pregnancy,When Question,Sampled_Original
+967,when is it best to take a pregnancy test?,pregnancy,When Question,Sampled_Original
+968,when is it safe to announce pregnancy?,pregnancy,When Question,Sampled_Original
+969,when is it safe to tell people your pregnant?,pregnancy,When Question,Sampled_Original
+970,when is rhogam given during pregnancy?,pregnancy,When Question,Sampled_Original
+971,when is the best time to take a pregnancy?,pregnancy,When Question,Sampled_Original
+972,when is the soonest you can detect pregnancy?,pregnancy,When Question,Sampled_Original
+973,when is there a heartbeat in pregnancy?,pregnancy,When Question,Sampled_Original
+974,when should a pregnant woman stop flying?,pregnancy,When Question,Sampled_Original
+975,when should i pack my hospital bag pregnancy?,pregnancy,When Question,Sampled_Original
+976,when should you stop traveling when pregnant?,pregnancy,When Question,Sampled_Original
+977,when to get tdap during pregnancy?,pregnancy,When Question,Sampled_Original
+978,when to give tdap in pregnancy?,pregnancy,When Question,Sampled_Original
+979,when to take home pregnancy test?,pregnancy,When Question,Sampled_Original
+980,when to take pregnancy test after ovulation?,pregnancy,When Question,Sampled_Original
+981,when to worry about swelling in pregnancy?,pregnancy,When Question,Sampled_Original
+982,when were pregnancy test invented?,pregnancy,When Question,Sampled_Original
+983,when will a pregnancy test show positive?,pregnancy,When Question,Sampled_Original
+984,when are ultrasounds done during pregnancy?,pregnancy,When Question,Sampled_Original
+985,when is first ultrasound done in pregnancy?,pregnancy,When Question,Sampled_Original
+986,when to test for pregnancy calculator?,pregnancy,When Question,Sampled_Original
+987,why are babies born premature?,babycare,Why Question,Sampled_Original
+988,why are babies fat?,babycare,Why Question,Sampled_Original
+989,why babies can't have honey?,babycare,Why Question,Sampled_Original
+990,why can't babies drink water?,babycare,Why Question,Sampled_Original
+991,why can't babies eat honey?,babycare,Why Question,Sampled_Original
+992,why can't babies have water?,babycare,Why Question,Sampled_Original
+993,why can't you give babies honey?,babycare,Why Question,Sampled_Original
+994,why cant babies eat honey?,babycare,Why Question,Sampled_Original
+995,why cant babies have honey?,babycare,Why Question,Sampled_Original
+996,why do babies bite?,babycare,Why Question,Sampled_Original
+997,why do babies cry all the time psychology?,babycare,Why Question,Sampled_Original
+998,why do babies get cradle cap?,babycare,Why Question,Sampled_Original
+999,why do babies get hiccups?,babycare,Why Question,Sampled_Original
+1000,why do babies get hiccups in the womb?,babycare,Why Question,Sampled_Original
+1001,why do babies grunt?,babycare,Why Question,Sampled_Original
+1002,why do babies have more bones than adults?,babycare,Why Question,Sampled_Original
+1003,why do babies lose weight after birth?,babycare,Why Question,Sampled_Original
+1004,why do babies need helmets?,babycare,Why Question,Sampled_Original
+1005,why do babies need sleep?,babycare,Why Question,Sampled_Original
+1006,why do babies need to be burped?,babycare,Why Question,Sampled_Original
+1007,why do babies need vitamin d?,babycare,Why Question,Sampled_Original
+1008,why do babies smile in their sleep?,babycare,Why Question,Sampled_Original
+1009,why do babies wear helmets?,babycare,Why Question,Sampled_Original
+1010,why is honey bad for babies?,babycare,Why Question,Sampled_Original
+1011,why is my baby fussy?,babycare,Why Question,Sampled_Original
+1012,why is my baby's poop green?,babycare,Why Question,Sampled_Original
+1013,why are babies stillborn?,babycare,Why Question,Sampled_Original
+1014,why babies cry?,babycare,Why Question,Sampled_Original
+1015,why can't pregnant women change cat litter?,pregnancy,Why Question,Sampled_Original
+1016,why can't pregnant women eat deli meat?,pregnancy,Why Question,Sampled_Original
+1017,why can't pregnant women eat lunch meat?,pregnancy,Why Question,Sampled_Original
+1018,why can't pregnant women eat soft cheese?,pregnancy,Why Question,Sampled_Original
+1019,why can't pregnant women eat sushi?,pregnancy,Why Question,Sampled_Original
+1020,why can't pregnant women take ibuprofen?,pregnancy,Why Question,Sampled_Original
+1021,why can't you eat deli meat while pregnant?,pregnancy,Why Question,Sampled_Original
+1022,why can't you eat lunch meat while pregnant?,pregnancy,Why Question,Sampled_Original
+1023,why can't you eat sushi while pregnant?,pregnancy,Why Question,Sampled_Original
+1024,why can't you sleep on your back pregnant?,pregnancy,Why Question,Sampled_Original
+1025,why can't you take ibuprofen while pregnant?,pregnancy,Why Question,Sampled_Original
+1026,why do pregnant women crave pickles?,pregnancy,Why Question,Sampled_Original
+1027,why do pregnant women get morning sickness?,pregnancy,Why Question,Sampled_Original
+1028,why do pregnant women have cravings?,pregnancy,Why Question,Sampled_Original
+1029,why do pregnant women need iron?,pregnancy,Why Question,Sampled_Original
+1030,why do pregnant women need protein?,pregnancy,Why Question,Sampled_Original
+1031,why do pregnant women vomit?,pregnancy,Why Question,Sampled_Original
+1032,why do teenagers get pregnant?,pregnancy,Why Question,Sampled_Original
+1033,why do you get headaches when pregnant?,pregnancy,Why Question,Sampled_Original
+1034,why is caffeine bad while pregnant?,pregnancy,Why Question,Sampled_Original
+1035,why is iron important during pregnancy?,pregnancy,Why Question,Sampled_Original
+1036,why is teen pregnancy a problem?,pregnancy,Why Question,Sampled_Original
+1037,why take progesterone during pregnancy?,pregnancy,Why Question,Sampled_Original
+1038,can babies drink almond milk?,babycare,Binary Question,Original
+1039,can babies eat cheese?,babycare,Binary Question,Original
+1040,can babies eat eggs?,babycare,Binary Question,Original
+1041,can babies eat honey?,babycare,Binary Question,Original
+1042,can babies eat salmon?,babycare,Binary Question,Original
+1043,can babies eat strawberries?,babycare,Binary Question,Original
+1044,can babies eat tuna?,babycare,Binary Question,Original
+1045,can babies eat yogurt?,babycare,Binary Question,Original
+1046,can babies have cinnamon?,babycare,Binary Question,Original
+1047,can babies wear sunscreen?,babycare,Binary Question,Original
+1048,can baby sleep with pacifier?,babycare,Binary Question,Original
+1049,can i give my baby water?,babycare,Binary Question,Original
+1050,can you use vicks on babies?,babycare,Binary Question,Original
+1051,do babies get shots at 9 months?,babycare,Binary Question,Original
+1052,do babies snore?,babycare,Binary Question,Original
+1053,do babies sweat?,babycare,Binary Question,Original
+1054,does baby move during contractions?,babycare,Binary Question,Original
+1055,should babies wear shoes?,babycare,Binary Question,Original
+1056,can you drink alcohol while pregnant?,pregnancy,Binary Question,Original
+1057,can you drink red wine while pregnant?,pregnancy,Binary Question,Original
+1058,can a pregnant woman take alka seltzer?,pregnancy,Binary Question,Original
+1059,can a woman get pregnant while breastfeeding?,pregnancy,Binary Question,Original
+1060,can a woman lactate without pregnancy?,pregnancy,Binary Question,Original
+1061,can i drink wine while pregnant?,pregnancy,Binary Question,Original
+1062,can i eat feta when pregnant?,pregnancy,Binary Question,Original
+1063,can i eat salami while pregnant?,pregnancy,Binary Question,Original
+1064,can i take a bath while pregnant?,pregnancy,Binary Question,Original
+1065,can i take advil while pregnant?,pregnancy,Binary Question,Original
+1066,can i take cough drops while pregnant?,pregnancy,Binary Question,Original
+1067,can i take vitamin c while pregnant?,pregnancy,Binary Question,Original
+1068,can i use a heating pad while pregnant?,pregnancy,Binary Question,Original
+1069,can pregnant women donate blood?,pregnancy,Binary Question,Original
+1070,can pregnant women drink energy drinks?,pregnancy,Binary Question,Original
+1071,can pregnant women eat beef jerky?,pregnancy,Binary Question,Original
+1072,can pregnant women eat calamari?,pregnancy,Binary Question,Original
+1073,can pregnant women eat california rolls?,pregnancy,Binary Question,Original
+1074,can pregnant women eat canned tuna?,pregnancy,Binary Question,Original
+1075,can pregnant women eat catfish?,pregnancy,Binary Question,Original
+1076,can pregnant women eat ceviche?,pregnancy,Binary Question,Original
+1077,can pregnant women eat cheese?,pregnancy,Binary Question,Original
+1078,can pregnant women eat cold cuts?,pregnancy,Binary Question,Original
+1079,can pregnant women eat deli meat?,pregnancy,Binary Question,Original
+1080,can pregnant women eat grapes?,pregnancy,Binary Question,Original
+1081,can pregnant women eat lobster?,pregnancy,Binary Question,Original
+1082,can pregnant women eat mayonnaise?,pregnancy,Binary Question,Original
+1083,can pregnant women eat mussels?,pregnancy,Binary Question,Original
+1084,can pregnant women eat prawns?,pregnancy,Binary Question,Original
+1085,can pregnant women eat seafood?,pregnancy,Binary Question,Original
+1086,can pregnant women eat steak?,pregnancy,Binary Question,Original
+1087,can pregnant women eat yogurt?,pregnancy,Binary Question,Original
+1088,can pregnant women take antibiotics?,pregnancy,Binary Question,Original
+1089,can you do keto while pregnant?,pregnancy,Binary Question,Original
+1090,can you drink black tea while pregnant?,pregnancy,Binary Question,Original
+1091,can you drink herbal tea when pregnant?,pregnancy,Binary Question,Original
+1092,can you drink soda while pregnant?,pregnancy,Binary Question,Original
+1093,can you eat bacon when pregnant?,pregnancy,Binary Question,Original
+1094,can you eat blue cheese while pregnant?,pregnancy,Binary Question,Original
+1095,can you eat brie when pregnant?,pregnancy,Binary Question,Original
+1096,can you eat clams when pregnant?,pregnancy,Binary Question,Original
+1097,can you eat cooked sushi while pregnant?,pregnancy,Binary Question,Original
+1098,can you eat crab legs when pregnant?,pregnancy,Binary Question,Original
+1099,can you eat crab while pregnant?,pregnancy,Binary Question,Original
+1100,can you eat crawfish while pregnant?,pregnancy,Binary Question,Original
+1101,can you eat fish while pregnant?,pregnancy,Binary Question,Original
+1102,can you eat ham when pregnant?,pregnancy,Binary Question,Original
+1103,can you eat hotdogs when pregnant?,pregnancy,Binary Question,Original
+1104,can you eat ice cream when pregnant?,pregnancy,Binary Question,Original
+1105,can you eat imitation crab when pregnant?,pregnancy,Binary Question,Original
+1106,can you eat mozzarella when pregnant?,pregnancy,Binary Question,Original
+1107,can you eat pepperoni when pregnant?,pregnancy,Binary Question,Original
+1108,can you eat salmon while pregnant?,pregnancy,Binary Question,Original
+1109,can you eat shellfish while pregnant?,pregnancy,Binary Question,Original
+1110,can you eat smoked salmon when pregnant?,pregnancy,Binary Question,Original
+1111,can you eat tilapia while pregnant?,pregnancy,Binary Question,Original
+1112,can you exercise while pregnant?,pregnancy,Binary Question,Original
+1113,can you fly at 6 months pregnant?,pregnancy,Binary Question,Original
+1114,can you get a massage when pregnant?,pregnancy,Binary Question,Original
+1115,can you get dental work while pregnant?,pregnancy,Binary Question,Original
+1116,can you get hep b vaccine while pregnant?,pregnancy,Binary Question,Original
+1117,can you go to the dentist while pregnant?,pregnancy,Binary Question,Original
+1118,can you have honey when pregnant?,pregnancy,Binary Question,Original
+1119,can you have lunch meat while pregnant?,pregnancy,Binary Question,Original
+1120,can you have sushi while pregnant?,pregnancy,Binary Question,Original
+1121,can you sleep on your back when pregnant?,pregnancy,Binary Question,Original
+1122,can you sleep on your stomach pregnant?,pregnancy,Binary Question,Original
+1123,can you take aleve when pregnant?,pregnancy,Binary Question,Original
+1124,can you take antidepressants while pregnant?,pregnancy,Binary Question,Original
+1125,can you take anxiety meds while pregnant?,pregnancy,Binary Question,Original
+1126,can you take benadryl when pregnant?,pregnancy,Binary Question,Original
+1127,can you take cold medicine when pregnant?,pregnancy,Binary Question,Original
+1128,can you take dayquil when pregnant?,pregnancy,Binary Question,Original
+1129,can you take doxycycline while pregnant?,pregnancy,Binary Question,Original
+1130,can you take elderberry while pregnant?,pregnancy,Binary Question,Original
+1131,can you take emergen-c while pregnant?,pregnancy,Binary Question,Original
+1132,can you take gas x when pregnant?,pregnancy,Binary Question,Original
+1133,can you take laxatives while pregnant?,pregnancy,Binary Question,Original
+1134,can you take motrin while pregnant?,pregnancy,Binary Question,Original
+1135,can you take naproxen while pregnant?,pregnancy,Binary Question,Original
+1136,can you take paracetamol when pregnant?,pregnancy,Binary Question,Original
+1137,can you take prozac while pregnant?,pregnancy,Binary Question,Original
+1138,can you take unisom while pregnant?,pregnancy,Binary Question,Original
+1139,can you take zantac while pregnant?,pregnancy,Binary Question,Original
+1140,can you tan while pregnant?,pregnancy,Binary Question,Original
+1141,is it safe for babies to drink almond milk?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1142,is it safe for babies to eat cheese?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1143,is it safe for babies to eat eggs?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1144,is it safe for babies to eat honey?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1145,is it safe for babies to eat salmon?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1146,is it safe for babies to eat strawberries?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1147,is it safe for babies to eat tuna?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1148,is it safe for babies to eat yogurt?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1149,is it safe for babies to have cinnamon?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1150,is it safe for babies to wear sunscreen?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1151,is it safe for baby to sleep with pacifier?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1152,is it safe to give my baby water?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1153,is it safe to use vicks on babies?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1154,is it safe for babies to get shots at 9 months?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1155,is baby snoring safe?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1156,is baby sweating safe?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1157,is it safe for baby to move during contractions?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1158,is it safe for babies to wear shoes?,babycare,Binary Question,positive_reformulation_by_keyword_safe
+1159,is it safe for you to drink alcohol while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1160,is it safe for you to drink red wine while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1161,is it safe for a pregnant woman to take alka seltzer?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1162,is it safe for a woman to get pregnant while breastfeeding?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1163,is it safe for a woman to lactate without pregnancy?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1164,is it safe for me to drink wine while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1165,is it safe for me to eat feta when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1166,is it safe for me to eat salami while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1167,is it safe for me to take a bath while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1168,is it safe for me to take advil while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1169,is it safe for me to take cough drops while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1170,is it safe for me to take vitamin c while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1171,is it safe for me to use a heating pad while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1172,is it safe for pregnant women to donate blood?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1173,is it safe for pregnant women to drink energy drinks?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1174,is it safe for pregnant women to eat beef jerky?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1175,is it safe for pregnant women to eat calamari?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1176,is it safe for pregnant women to eat california rolls?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1177,is it safe for pregnant women to eat canned tuna?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1178,is it safe for pregnant women to eat catfish?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1179,is it safe for pregnant women to eat ceviche?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1180,is it safe for pregnant women to eat cheese?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1181,is it safe for pregnant women to eat cold cuts?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1182,is it safe for pregnant women to eat deli meat?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1183,is it safe for pregnant women to eat grapes?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1184,is it safe for pregnant women to eat lobster?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1185,is it safe for pregnant women to eat mayonnaise?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1186,is it safe for pregnant women to eat mussels?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1187,is it safe for pregnant women to eat prawns?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1188,is it safe for pregnant women to eat seafood?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1189,is it safe for pregnant women to eat steak?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1190,is it safe for pregnant women to eat yogurt?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1191,is it safe for pregnant women to take antibiotics?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1192,is it safe to do keto while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1193,is it safe for you to drink black tea while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1194,is it safe for you to drink herbal tea when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1195,is it safe for you to drink soda while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1196,is it safe for you to eat bacon when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1197,is it safe for you to eat blue cheese while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1198,is it safe for you to eat brie when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1199,is it safe for you to eat clams when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1200,is it safe for you to eat cooked sushi while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1201,is it safe for you to eat crab legs when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1202,is it safe for you to eat crab while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1203,is it safe for you to eat crawfish while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1204,is it safe for you to eat fish while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1205,is it safe for you to eat ham when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1206,is it safe for you to eat hotdogs when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1207,is it safe for you to eat ice cream when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1208,is it safe for you to eat imitation crab when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1209,is it safe for you to eat mozzarella when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1210,is it safe for you to eat pepperoni when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1211,is it safe for you to eat salmon while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1212,is it safe for you to eat shellfish while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1213,is it safe for you to eat smoked salmon when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1214,is it safe for you to eat tilapia while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1215,is it safe for you to exercise while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1216,is it safe for you to fly at 6 months pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1217,is it safe for you to get a massage when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1218,is it safe for you to get dental work while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1219,is it safe for you to get hep b vaccine while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1220,is it safe for you to go to the dentist while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1221,is it safe for you to have honey when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1222,is it safe for you to have lunch meat while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1223,is it safe for you to have sushi while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1224,is it safe for you to sleep on your back when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1225,is it safe for you to sleep on your stomach pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1226,is it safe for you to take aleve when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1227,is it safe for you to take antidepressants while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1228,is it safe for you to take anxiety meds while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1229,is it safe for you to take benadryl when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1230,is it safe for you to take cold medicine when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1231,is it safe for you to take dayquil when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1232,is it safe for you to take doxycycline while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1233,is it safe for you to take elderberry while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1234,is it safe for you to take emergen-c while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1235,is it safe for you to take gas x when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1236,is it safe for you to take laxatives while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1237,is it safe for you to take motrin while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1238,is it safe for you to take naproxen while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1239,is it safe for you to take paracetamol when pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1240,is it safe for you to take prozac while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1241,is it safe for you to take unisom while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1242,is it safe for you to take zantac while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1243,is it safe for you to tan while pregnant?,pregnancy,Binary Question,positive_reformulation_by_keyword_safe
+1244,is it unsafe for babies to drink almond milk?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1245,is it unsafe for babies to eat cheese?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1246,is it unsafe for babies to eat eggs?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1247,is it unsafe for babies to eat honey?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1248,is it unsafe for babies to eat salmon?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1249,is it unsafe for babies to eat strawberries?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1250,is it unsafe for babies to eat tuna?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1251,is it unsafe for babies to eat yogurt?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1252,is it unsafe for babies to have cinnamon?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1253,is it unsafe for babies to wear sunscreen?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1254,is it unsafe for baby to sleep with pacifier?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1255,is it unsafe to give my baby water?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1256,is it unsafe to use vicks on babies?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1257,is it unsafe for babies to get shots at 9 months?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1258,is baby snoring unsafe?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1259,is baby sweating unsafe?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1260,is it unsafe for baby to move during contractions?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1261,is it unsafe for babies to wear shoes?,babycare,Binary Question,negative_reformulation_by_keyword_unsafe
+1262,is it unsafe for you to drink alcohol while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1263,is it unsafe for you to drink red wine while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1264,is it unsafe for a pregnant woman to take alka seltzer?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1265,is it unsafe for a woman to get pregnant while breastfeeding?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1266,is it unsafe for a woman to lactate without pregnancy?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1267,is it unsafe for me to drink wine while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1268,is it unsafe for me to eat feta when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1269,is it unsafe for me to eat salami while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1270,is it unsafe for me to take a bath while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1271,is it unsafe for me to take advil while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1272,is it unsafe for me to take cough drops while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1273,is it unsafe for me to take vitamin c while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1274,is it unsafe for me to use a heating pad while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1275,is it unsafe for pregnant women to donate blood?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1276,is it unsafe for pregnant women to drink energy drinks?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1277,is it unsafe for pregnant women to eat beef jerky?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1278,is it unsafe for pregnant women to eat calamari?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1279,is it unsafe for pregnant women to eat california rolls?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1280,is it unsafe for pregnant women to eat canned tuna?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1281,is it unsafe for pregnant women to eat catfish?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1282,is it unsafe for pregnant women to eat ceviche?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1283,is it unsafe for pregnant women to eat cheese?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1284,is it unsafe for pregnant women to eat cold cuts?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1285,is it unsafe for pregnant women to eat deli meat?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1286,is it unsafe for pregnant women to eat grapes?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1287,is it unsafe for pregnant women to eat lobster?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1288,is it unsafe for pregnant women to eat mayonnaise?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1289,is it unsafe for pregnant women to eat mussels?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1290,is it unsafe for pregnant women to eat prawns?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1291,is it unsafe for pregnant women to eat seafood?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1292,is it unsafe for pregnant women to eat steak?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1293,is it unsafe for pregnant women to eat yogurt?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1294,is it unsafe for pregnant women to take antibiotics?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1295,is it unsafe to do keto while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1296,is it unsafe for you to drink black tea while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1297,is it unsafe for you to drink herbal tea when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1298,is it unsafe for you to drink soda while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1299,is it unsafe for you to eat bacon when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1300,is it unsafe for you to eat blue cheese while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1301,is it unsafe for you to eat brie when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1302,is it unsafe for you to eat clams when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1303,is it unsafe for you to eat cooked sushi while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1304,is it unsafe for you to eat crab legs when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1305,is it unsafe for you to eat crab while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1306,is it unsafe for you to eat crawfish while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1307,is it unsafe for you to eat fish while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1308,is it unsafe for you to eat ham when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1309,is it unsafe for you to eat hotdogs when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1310,is it unsafe for you to eat ice cream when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1311,is it unsafe for you to eat imitation crab when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1312,is it unsafe for you to eat mozzarella when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1313,is it unsafe for you to eat pepperoni when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1314,is it unsafe for you to eat salmon while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1315,is it unsafe for you to eat shellfish while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1316,is it unsafe for you to eat smoked salmon when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1317,is it unsafe for you to eat tilapia while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1318,is it unsafe for you to exercise while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1319,is it unsafe for you to fly at 6 months pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1320,is it unsafe for you to get a massage when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1321,is it unsafe for you to get dental work while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1322,is it unsafe for you to get hep b vaccine while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1323,is it unsafe for you to go to the dentist while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1324,is it unsafe for you to have honey when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1325,is it unsafe for you to have lunch meat while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1326,is it unsafe for you to have sushi while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1327,is it unsafe for you to sleep on your back when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1328,is it unsafe for you to sleep on your stomach pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1329,is it unsafe for you to take aleve when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1330,is it unsafe for you to take antidepressants while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1331,is it unsafe for you to take anxiety meds while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1332,is it unsafe for you to take benadryl when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1333,is it unsafe for you to take cold medicine when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1334,is it unsafe for you to take dayquil when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1335,is it unsafe for you to take doxycycline while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1336,is it unsafe for you to take elderberry while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1337,is it unsafe for you to take emergen-c while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1338,is it unsafe for you to take gas x when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1339,is it unsafe for you to take laxatives while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1340,is it unsafe for you to take motrin while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1341,is it unsafe for you to take naproxen while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1342,is it unsafe for you to take paracetamol when pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1343,is it unsafe for you to take prozac while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1344,is it unsafe for you to take unisom while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1345,is it unsafe for you to take zantac while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1346,is it unsafe for you to tan while pregnant?,pregnancy,Binary Question,negative_reformulation_by_keyword_unsafe
+1347,are walkers bad for babies?,babycare,Binary Question,Original
+1348,is aquaphor safe for babies face?,babycare,Binary Question,Original
+1349,is aquaphor safe for babies lips?,babycare,Binary Question,Original
+1350,is orajel safe for babies?,babycare,Binary Question,Original
+1351,is regular aquaphor safe for babies?,babycare,Binary Question,Original
+1352,are cramps normal during early pregnancy?,pregnancy,Binary Question,Original
+1353,are essential oils safe during pregnancy?,pregnancy,Binary Question,Original
+1354,are headaches normal in pregnancy?,pregnancy,Binary Question,Original
+1355,are probiotics safe during pregnancy?,pregnancy,Binary Question,Original
+1356,are tums safe during pregnancy?,pregnancy,Binary Question,Original
+1357,is albuterol safe in pregnancy?,pregnancy,Binary Question,Original
+1358,is aspirin safe in pregnancy?,pregnancy,Binary Question,Original
+1359,is augmentin safe during pregnancy?,pregnancy,Binary Question,Original
+1360,is buscopan safe in pregnancy?,pregnancy,Binary Question,Original
+1361,is cream cheese safe during pregnancy?,pregnancy,Binary Question,Original
+1362,is decaf coffee safe during pregnancy?,pregnancy,Binary Question,Original
+1363,is discharge normal during pregnancy?,pregnancy,Binary Question,Original
+1364,is dramamine safe during pregnancy?,pregnancy,Binary Question,Original
+1365,is gaviscon safe in pregnancy?,pregnancy,Binary Question,Original
+1366,is ginger good for pregnant women?,pregnancy,Binary Question,Original
+1367,is ginger tea safe during pregnancy?,pregnancy,Binary Question,Original
+1368,is glycolic acid safe during pregnancy?,pregnancy,Binary Question,Original
+1369,is green tea safe while pregnant?,pregnancy,Binary Question,Original
+1370,is ibuprofen safe during pregnancy?,pregnancy,Binary Question,Original
+1371,is it normal to have diarrhea when pregnant?,pregnancy,Binary Question,Original
+1372,is it safe for pregnant women to fly?,pregnancy,Binary Question,Original
+1373,is it safe to drink coffee while pregnant?,pregnancy,Binary Question,Original
+1374,is it safe to dye hair while pregnant?,pregnancy,Binary Question,Original
+1375,is it safe to lose weight while pregnant?,pregnancy,Binary Question,Original
+1376,is it safe to paint while pregnant?,pregnancy,Binary Question,Original
+1377,is it safe to take prenatal if not pregnant?,pregnancy,Binary Question,Original
+1378,is it safe to travel while pregnant?,pregnancy,Binary Question,Original
+1379,is lexapro safe during pregnancy?,pregnancy,Binary Question,Original
+1380,is macrobid safe in pregnancy?,pregnancy,Binary Question,Original
+1381,is magnesium safe in pregnancy?,pregnancy,Binary Question,Original
+1382,is melatonin safe during pregnancy?,pregnancy,Binary Question,Original
+1383,is mild cramping normal in early pregnancy?,pregnancy,Binary Question,Original
+1384,is miralax safe during pregnancy?,pregnancy,Binary Question,Original
+1385,is peppermint oil safe for pregnant women?,pregnancy,Binary Question,Original
+1386,is peppermint tea safe during pregnancy?,pregnancy,Binary Question,Original
+1387,is pineapple good for pregnant women?,pregnancy,Binary Question,Original
+1388,is promethazine safe in pregnancy?,pregnancy,Binary Question,Original
+1389,is ranitidine safe during pregnancy?,pregnancy,Binary Question,Original
+1390,is robitussin dm safe in pregnancy?,pregnancy,Binary Question,Original
+1391,is sertraline safe in pregnancy?,pregnancy,Binary Question,Original
+1392,is shingles dangerous for pregnant women?,pregnancy,Binary Question,Original
+1393,is shrimp safe during pregnancy?,pregnancy,Binary Question,Original
+1394,is spotting normal during pregnancy?,pregnancy,Binary Question,Original
+1395,is sudafed safe during pregnancy?,pregnancy,Binary Question,Original
+1396,is tamiflu safe during pregnancy?,pregnancy,Binary Question,Original
+1397,is tuna safe during pregnancy?,pregnancy,Binary Question,Original
+1398,is tylenol safe during pregnancy?,pregnancy,Binary Question,Original
+1399,is wellbutrin safe during pregnancy?,pregnancy,Binary Question,Original
+1400,is zofran safe during pregnancy?,pregnancy,Binary Question,Original
+1401,can babies use walkers?,babycare,Binary Question,neutral_reformulation
+1402,can you use aquaphor on babies face?,babycare,Binary Question,neutral_reformulation
+1403,can you apply aquaphor on babies lips?,babycare,Binary Question,neutral_reformulation
+1404,can babies use orajel?,babycare,Binary Question,neutral_reformulation
+1405,can you apply regular aquaphor on babies?,babycare,Binary Question,neutral_reformulation
+1406,do cramps occur during early pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1407,can you use essential oils during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1408,do headaches occur in pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1409,can you take probiotics during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1410,can you take tums during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1411,can you use albuterol in pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1412,can you take aspirin in pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1413,can you take augmentin during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1414,can you take buscopan in pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1415,can you eat cream cheese during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1416,can you drink decaf coffee during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1417,does discharge occur during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1418,can you take dramamine during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1419,can you take gaviscon in pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1420,does ginger affect pregnant women?,pregnancy,Binary Question,neutral_reformulation
+1421,can you drink ginger tea during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1422,can you use glycolic acid during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1423,can you drink green tea while pregnant?,pregnancy,Binary Question,neutral_reformulation
+1424,can you take ibuprofen during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1425,can you have diarrhea when pregnant?,pregnancy,Binary Question,neutral_reformulation
+1426,can pregnant women fly?,pregnancy,Binary Question,neutral_reformulation
+1427,can you drink coffee while pregnant?,pregnancy,Binary Question,neutral_reformulation
+1428,can you dye your hair while pregnant?,pregnancy,Binary Question,neutral_reformulation
+1429,can you lose weight while pregnant?,pregnancy,Binary Question,neutral_reformulation
+1430,can you paint while pregnant?,pregnancy,Binary Question,neutral_reformulation
+1431,can you take prenatal vitamins if not pregnant?,pregnancy,Binary Question,neutral_reformulation
+1432,can you travel while pregnant?,pregnancy,Binary Question,neutral_reformulation
+1433,can you take lexapro during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1434,can you take macrobid in pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1435,can you take magnesium in pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1436,can you take melatonin during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1437,does mild cramping occur in early pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1438,can you take miralax during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1439,can pregnant women use peppermint oil?,pregnancy,Binary Question,neutral_reformulation
+1440,can you drink peppermint tea during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1441,does pineapple affect pregnant women?,pregnancy,Binary Question,neutral_reformulation
+1442,can you take promethazine in pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1443,can you take ranitidine during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1444,can you take robitussin dm in pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1445,can you take sertraline in pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1446,can shingles affect pregnant women?,pregnancy,Binary Question,neutral_reformulation
+1447,can you eat shrimp during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1448,does spotting occur during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1449,can you take sudafed during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1450,can you take tamiflu during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1451,can you eat tuna during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1452,can you take tylenol during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1453,can you take wellbutrin during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1454,can you take zofran during pregnancy?,pregnancy,Binary Question,neutral_reformulation
+1455,are walkers good for babies?,babycare,Binary Question,reformulation_by_opposite_sentiment_valence
+1456,is aquaphor unsafe for babies face?,babycare,Binary Question,reformulation_by_opposite_sentiment_valence
+1457,is aquaphor unsafe for babies lips?,babycare,Binary Question,reformulation_by_opposite_sentiment_valence
+1458,is orajel unsafe for babies?,babycare,Binary Question,reformulation_by_opposite_sentiment_valence
+1459,is regular aquaphor unsafe for babies?,babycare,Binary Question,reformulation_by_opposite_sentiment_valence
+1460,are cramps abnormal during early pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1461,are essential oils unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1462,are headaches abnormal in pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1463,are probiotics unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1464,are tums unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1465,is albuterol unsafe in pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1466,is aspirin unsafe in pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1467,is augmentin unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1468,is buscopan unsafe in pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1469,is cream cheese unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1470,is decaf coffee unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1471,is discharge abnormal during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1472,is dramamine unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1473,is gaviscon unsafe in pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1474,is ginger bad for pregnant women?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1475,is ginger tea unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1476,is glycolic acid unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1477,is green tea unsafe while pregnant?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1478,is ibuprofen unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1479,is it abnormal to have diarrhea when pregnant?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1480,is it unsafe for pregnant women to fly?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1481,is it unsafe to drink coffee while pregnant?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1482,is it unsafe to dye hair while pregnant?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1483,is it unsafe to lose weight while pregnant?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1484,is it unsafe to paint while pregnant?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1485,is it unsafe to take prenatal if not pregnant?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1486,is it unsafe to travel while pregnant?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1487,is lexapro unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1488,is macrobid unsafe in pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1489,is magnesium unsafe in pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1490,is melatonin unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1491,is mild cramping abnormal in early pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1492,is miralax unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1493,is peppermint oil unsafe for pregnant women?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1494,is peppermint tea unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1495,is pineapple bad for pregnant women?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1496,is promethazine unsafe in pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1497,is ranitidine unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1498,is robitussin dm unsafe in pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1499,is sertraline unsafe in pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1500,is shingles safe for pregnant women?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1501,is shrimp unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1502,is spotting abnormal during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1503,is sudafed unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1504,is tamiflu unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1505,is tuna unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1506,is tylenol unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1507,is wellbutrin unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
+1508,is zofran unsafe during pregnancy?,pregnancy,Binary Question,reformulation_by_opposite_sentiment_valence
